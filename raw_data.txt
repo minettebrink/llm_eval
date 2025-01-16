@@ -1,0 +1,2041 @@
+train/algebra__linear_1d
+ Solve -9*u - 12 + 28 = 34 for u.  -2
+ Solve 62*q + 1256 = -115*q + 6743 for q.  31
+ Solve 13*t - 80 = -15 for t.  5
+ Solve 2*d + 179 = 169 for d.  -5
+ Solve 198 = 118*w - 55*w - 52*w for w.  18
+ Solve -5 = -2*h + 5 for h.  5
+ Solve 13*t + 305 - 279 = 0 for t.  -2
+ Solve 303145 - 281193 = -686*g for g.  -32
+ Solve -4937 = 9*m - 5135 for m.  22
+ Solve -541*v + 537*v = 16 for v.  -4
+train/algebra__linear_1d_composed
+ Suppose -3*l - 34 = -5*u, 4*u - u + l = 26. Suppose -3*k = -2*i - 17, i + 2*i +
+  18 = 2*k. Solve -y + k = u for y.  -5
+ Let x = -5 + -3. Let z = x + 14. Solve 0 = 3*o + z - 18 for o.  4
+ Let t = 341 - 335. Suppose -3*j = 4*c - 49, -t*c - 4*j - 18 = -9*c. Solve -c*z
+  + 3 = -17 for z.  2
+ Suppose -3*d = 3*a - 39 - 12, -2*a - 57 = -5*d. Let g = d - 7. Suppose 0*j + g
+  = j. Solve s - j = 3*s for s.  -3
+ Let r(i) = i**2 - 7*i + 6. Let d(q) = 5*q**3 + q. Let a be d(1). Let u be r(a).
+  Let x be 16/(-3)*(-3 + u). Solve s - 5*s + x = 0 for s.  4
+ Suppose w + 3*w = 7*w. Suppose s = -4*i + 16, i = 5*s - 0 + 4. Suppose -3*l +
+  15 = -0*k + 3*k, s = 5*l - 15. Solve w = -a - k - 2 for a.  -4
+ Suppose 9 = -4*u + 7*u + 3*a, 5*u - 15 = 4*a. Solve 2*d + u*d = 0 for d.
+  0
+ Suppose -4*v = 55 - 71. Let u be (-2 + 4 + v)*(-4)/(-3). Solve -5*s - 12 - u =
+  0 for s.  -4
+ Let v(x) = -x**3 - 2*x**2 + 2. Let b be v(-2). Suppose -11*k + 27 = -b*k. Solve
+  2*y = -k*y for y.  0
+ Suppose u = -3, 2*x - 5*u = -2*x + 35. Suppose 2*a + 4*q - 21 = 3*q, 0 = q - x.
+  Solve 0 = -r + 3*r + a for r.  -4
+train/algebra__linear_2d
+ Solve 3*l = 3*v - 9, 4110*l - 4115*l - 6*v = -29 for l.  1
+ Solve 10 = -5*m + 5*w, -240*m + 244*m - 28 = -5*w for m.  2
+ Solve 320*f + 22 = -x + 315*f, -2*x + 7*f + 24 = 0 for x.  -2
+ Solve 10 = -3*f - 4*l, -3*f - 2*l - 8 = -0*l for f.  -2
+ Solve 0 = 3*b + 2*p - 1, 0*b - 17*p + 111 = 2*b + 32 for b.  -3
+ Solve 0 = -4*j - 2*v + 12, -2*j + 2 = -0*j - v for j.  2
+ Solve -2*o + 20 = -108*f + 104*f, 0 = -4*o - 2*f for o.  2
+ Solve 148*j + 9 = -5*m + 279*j - 135*j + 28, 0*m + 2*m - 2*j + 14 = 0 for m.
+  -1
+ Solve -4*r = -2*v - 30, -10 = 10*r - 12*r for v.  -5
+ Solve -2*p + 5 = -f, -309*p - f = -310*p + 2 for p.  3
+train/algebra__linear_2d_composed
+ Let k be (-17)/(-85)*(15 - 0). Solve p = -1, -2*p - 4 - k = -5*u for u.
+  1
+ Let i = -11 - -13. Solve 0 = -5*r + 3*s - 20, r + 4 = -i*s - 0 for r.
+  -4
+ Let a(s) = s**2 + 17*s. Let p be a(-11). Let x = -59 - p. Solve u + g - 2 =
+  4*g, -4*u - x = 3*g for u.  -1
+ Let b be 36/(-54) + 4/6. Suppose -5*y + 55 = -5*k, b*k + 16 = -4*k. Suppose y -
+  8 = -j. Solve 5*t = 5*l - 13 - 22, t = -l - j for l.  3
+ Let c(w) = 7*w - 9. Let i be c(2). Solve -i*z - 4 = -2*y + 24, -2*y = -2*z - 16
+  for y.  4
+ Let o = 1153 + -1137. Solve 4*i + n + o = -0*n, -3*n = 0 for i.  -4
+ Let d be -1 + (4 - -1)*1. Let h be ((-6)/(-30))/(3/105). Solve y - d*f = -11,
+  4*y + h = -5*f + 47 for y.  5
+ Suppose -h = 3*r - 11, -63*h = 5*r - 58*h - 25. Suppose l = -2*t - 2, 3*l =
+  -r*t + 7*t + 14. Solve -2*d + l + 26 = 4*v, -d = v - 9 for d.  4
+ Suppose 0*u + 6 = -3*u. Suppose -2*y = -8*y - 18. Let n be u - y*12/9. Solve
+  -5*c = -n*v + v - 3, -5*v = 3*c + 15 for v.  -3
+ Suppose 0 = -9*c + 48 - 3. Solve 5*a - 4*a = h + 8, c*h + 2*a = -19 for h.
+  -5
+train/algebra__polynomial_roots
+ Solve 89213*b**3/2 + 356965*b**2/2 + 178652*b + 226 = 0.  -2,
+  -113/89213
+ Determine r so that -70*r**5 - 281*r**4 + 1304166*r**3 - 1285189*r**2 - 18626*r
+  = 0.  -139, -1/70, 0, 1, 134
+ Suppose 2*t**3/3 + 48*t**2 + 778*t/3 - 308 = 0. Calculate t.  -66, -7,
+  1
+ Factor 9*u**5 + 507*u**4/4 + 21*u**3/2.  3*u**3*(u + 14)*(12*u + 1)/4
+ Determine r, given that 2*r**2 - 208*r + 3360 = 0.  20, 84
+ Factor -2*v**2/7 - 96*v/7 - 1152/7.  -2*(v + 24)**2/7
+ Suppose 2*m**5/5 + 8826*m**4/5 + 44068*m**3/5 - 10592*m**2 - 282048*m/5 +
+  282112/5 = 0. What is m?  -4408, -4, 1, 2
+ Let 7845*x**2 - 7818*x - 27 = 0. What is x?  -9/2615, 1
+ Find z, given that -363*z**4/2 - 1947*z**3/2 - 336*z**2 - 30*z = 0.  -5,
+  -2/11, 0
+ Let -252*f**4 - 3021*f**3 + 36*f**2 = 0. What is f?  -12, 0, 1/84
+train/algebra__polynomial_roots_composed
+ Factor -3/2*v**3 + 9/2 + 3/2*v**2 + 15/2*v.  -3*(v - 3)*(v + 1)**2/2
+ Factor 15*f**4 - 50*f**2 - 182*f**5 - 30*f**3 + 105*f + 359*f**5 - 172*f**5 -
+  45.  5*(f - 1)**3*(f + 3)**2
+ Let z(y) be the first derivative of 3/22*y**4 + 3/11*y**2 - 18 + 4/11*y -
+  16/33*y**3. Solve z(j) = 0.  -1/3, 1, 2
+ Let x be (0 - -4)/((-27)/(-54)). Suppose -x + 0 = -4*k. Let -1/6*d - 1/6*d**5 +
+  0*d**k + 0 + 0*d**4 + 1/3*d**3 = 0. Calculate d.  -1, 0, 1
+ Let o(r) be the second derivative of 2*r + 1/18*r**4 - 2/3*r**3 + 0 + 3*r**2.
+  Solve o(z) = 0 for z.  3
+ Let j be 8 - (4 - (-4 - -12)). Suppose -5*v + 10 = 0, -3*q + 5*q - j = -4*v.
+  Factor 4*l**q + 5*l**2 - 5*l + l - 3*l**2 - 2*l**4.  -2*l*(l - 1)**2*(l +
+  2)
+ Let x(r) = 3*r**3 + 10*r**2 + 4*r + 4. Let l(i) = -3*i**3 - 9*i**2 - 3*i - 3.
+  Let u(s) = 7*l(s) + 6*x(s). Suppose u(j) = 0. Calculate j.  -1, 1
+ Let i be (-12 - (-18)/6) + 12. Let f(n) be the second derivative of -n - 4*n**2
+  + 8/3*n**i + 1/10*n**5 + 0 - 5/6*n**4. Factor f(q).  2*(q - 2)**2*(q -
+  1)
+ Let f be 33/9 + 1/3. Find h such that h - 8*h**2 - h - 10*h**4 + 6*h**f +
+  12*h**3 = 0.  0, 1, 2
+ Let q(h) be the second derivative of 0*h**2 - 1/45*h**5 + 3*h + 0*h**3 +
+  1/54*h**4 + 1/135*h**6 + 0. Factor q(r).  2*r**2*(r - 1)**2/9
+W0116 15:18:36.878751 140704436800320 generate.py:168] Dropped 3 examples
+train/algebra__sequence_next_term
+ What is the next term in 8079, 8099, 8119?  8139
+ What comes next: 1155, 1158, 1163, 1170, 1179, 1190?  1203
+ What comes next: 54341, 217267, 488827, 869027, 1357873?  1955371
+ What is the next term in 8115593, 16231190, 24346787, 32462384, 40577981?
+  48693578
+ What comes next: 31495, 31498, 31503, 31510, 31519, 31530, 31543?
+  31558
+ What comes next: 2521, 4345, 6167, 7987, 9805, 11621?  13435
+ What comes next: 4091, -1678, -11285, -24724, -41989, -63074, -87973, -116680?
+  -149189
+ What is next in 1290, 2577, 3862, 5145, 6426?  7705
+ What comes next: 862, 1615, 2368, 3121, 3874, 4627?  5380
+ What is next in -1257, -1538, -1823, -2112, -2405, -2702?  -3003
+train/algebra__sequence_nth_term
+ What is the a'th term of 390989, 781488, 1171987, 1562486?  390499*a +
+  490
+ What is the h'th term of -14, -47, -102, -179, -278, -399?  -11*h**2 -
+  3
+ What is the n'th term of -91, -97, -101, -103?  n**2 - 9*n - 83
+ What is the c'th term of -493, -822, -1709, -3436, -6285, -10538?
+  -47*c**3 + 3*c**2 - 9*c - 440
+ What is the q'th term of 1333, 2667, 3991, 5299, 6585, 7843, 9067, 10251?
+  -q**3 + q**2 + 1338*q - 5
+ What is the b'th term of 1751, 3508, 5263, 7016, 8767?  -b**2 + 1760*b -
+  8
+ What is the k'th term of 5523, 11046, 16569, 22092?  5523*k
+ What is the n'th term of 38, 103, 190, 311, 478, 703, 998?  2*n**3 - n**2
+  + 54*n - 17
+ What is the w'th term of 2498, 2490, 2470, 2432, 2370?  -w**3 - w +
+  2500
+ What is the i'th term of 384097, 768223, 1152349, 1536475, 1920601, 2304727?
+  384126*i - 29
+W0116 15:18:37.018353 140704436800320 generate.py:168] Dropped 1 examples
+train/arithmetic__add_or_sub
+ What is -1.1 + -1.159?  -2.259
+ Sum -0.027 and 15.13.  15.103
+ Calculate -0.2 + -9.83.  -10.03
+ Calculate -3411522997 + -129554.  -3411652551
+ Add 163075985867 and 2.  163075985869
+ Work out -65723 + -18.  -65741
+ Work out 0.2979 + -52967.  -52966.7021
+ What is the difference between -17.7 and -894.3?  876.6
+ Work out 0.1 - -1554433053.  1554433053.1
+ What is 327.68 less than -1007039072?  -1007039399.68
+train/arithmetic__add_or_sub_in_base
+ In base 12, what is 128 + 20?  148
+ In base 15, what is -1b + -1b4e7?  -1b513
+ In base 12, what is -6 + -183922?  -183928
+ In base 14, what is -8b - 1836?  -18c3
+ In base 3, what is 121112 - 210002?  -11120
+ In base 4, what is -20311 - 31031?  -112002
+ In base 14, what is -45 + 3?  -42
+ In base 3, what is 20012212102 - -11021?  20020000200
+ In base 3, what is 11122102220120 - 0?  11122102220120
+ In base 5, what is 1413211 - 122020?  1241141
+train/arithmetic__add_sub_multiple
+ What is the value of -1 - (-9 + 2 - -3) - 3?  0
+ What is the value of -230 - -253 - (49 + 5)?  -31
+ Calculate (18 - 8 - -10) + -17.  3
+ Calculate 3 - -1 - (-19 + 20).  3
+ What is (0 - 6) + 2 + 1?  -3
+ What is the value of 7 + 82 + -54 + -27?  8
+ What is the value of 16 + 0 - (-63 + 73 + 23)?  -17
+ What is 2 + -2 - (4 - 3 - 1)?  0
+ What is (-8 - -5) + -5 + 7?  -1
+ 1 - (4 - (6 - 2))  1
+train/arithmetic__div
+ Divide 21965 by -5.  -4393
+ Calculate -5324 divided by -2662.  2
+ Calculate -5376 divided by 448.  -12
+ Calculate 6054 divided by -1.  -6054
+ Calculate 138 divided by 3690.  23/615
+ 25066244 divided by 94234  266
+ -6 divided by -79  6/79
+ Calculate -2 divided by 264.  -1/132
+ What is -20 divided by 44?  -5/11
+ Divide 212129 by 401.  529
+train/arithmetic__mixed
+ Calculate (-11 - 2820/(-260))*26.  -4
+ What is -1 - -23 - 14 - 19 - 7?  -18
+ Evaluate (-75)/4 - ((25 - -56) + -81) - (-18)/(-8).  -21
+ Calculate (-75)/125 + 5/((-30)/(-24)) - 3/5.  14/5
+ What is (-293)/(433347/58) + (-3268)/(-102)?  32
+ What is the value of (-9)/8*1000/(-125)?  9
+ What is the value of -1 + 15/18 + 0?  -1/6
+ ((-2)/(-4))/(17 + 26/((-7800)/5275))  -6/7
+ What is ((-2)/96)/(20/(-80))?  1/12
+ Calculate ((-15)/(-21) - (12 - 745/35)) + (0 - 2).  8
+train/arithmetic__mul
+ What is 163 times 0?  0
+ Work out 25 * -20.  -500
+ What is 13.2 times 0.02?  0.264
+ Multiply -0.813285 and -0.22.  0.1789227
+ What is the product of 18 and -5?  -90
+ What is 20 times -0.875?  -17.5
+ What is the product of -197699677 and -2?  395399354
+ What is the product of -3 and 11.094237?  -33.282711
+ What is the product of 4 and -16720?  -66880
+ What is 207385694 times -2?  -414771388
+train/arithmetic__mul_div_multiple
+ Evaluate 70*(-11)/154*(-18)/(-20)*4.  -18
+ Evaluate (864/(-162))/(3*(-21)/(-27)).  -16/7
+ What is (20/156*-3)/(-1)*6/15?  2/13
+ Evaluate ((-108)/7128)/((-53)/(-636)).  -2/11
+ (-12)/4*-3*2/(-30)  -3/5
+ Calculate 2*(1/(-7))/(8/(-28)).  1
+ What is the value of (-104)/10*(-13)/312*6*10?  26
+ What is the value of 52/143*16/16?  4/11
+ What is 1820/(-624)*(-20)/(-25)*4*2/(-812)?  2/87
+ What is 144/1080*1*10/(-1)?  -4/3
+train/arithmetic__nearest_integer_root
+ What is the fifth root of 46299927 to the nearest integer?  34
+ What is the cube root of 118178118 to the nearest integer?  491
+ What is the cube root of 337409 to the nearest integer?  70
+ What is the cube root of 211 to the nearest integer?  6
+ What is 686552 to the power of 1/2, to the nearest integer?  829
+ What is the square root of 324359 to the nearest integer?  570
+ What is 610764380 to the power of 1/7, to the nearest integer?  18
+ What is the sixth root of 301 to the nearest integer?  3
+ What is the third root of 3779035 to the nearest integer?  156
+ What is 2484 to the power of 1/2, to the nearest integer?  50
+train/arithmetic__simplify_surd
+ Simplify -4*(1*sqrt(17)*-3 - sqrt(1700)*1)**2.  -11492
+ Simplify 2*sqrt(468) - (sqrt(13) - (sqrt(52) + 0)).  13*sqrt(13)
+ Simplify ((sqrt(64)/sqrt(36) - sqrt(16)) +
+  sqrt(176)/(-1*sqrt(11)))/(sqrt(40)/(-6*sqrt(5)*2)*-3) + -2.
+  -20*sqrt(2)/3 - 2
+ Simplify (-5 + -3 + sqrt(1872) + sqrt(1872) - -1*(sqrt(1872) + sqrt(1872) +
+  0))**2 + 4.  30020 - 768*sqrt(13)
+ Simplify (-3*(sqrt(3520)*2*4 - sqrt(3520)))/(-1*sqrt(500) + (sqrt(45)*1 -
+  sqrt(5)))*-1.  -21*sqrt(11)
+ Simplify -5 + 5 + (sqrt(152) + (sqrt(152) - (sqrt(152) + (sqrt(152) -
+  sqrt(152)*3))*-6))/(5*sqrt(32)/sqrt(4)).  -4*sqrt(19)/5
+ Simplify ((-1*sqrt(110)*-2)/((1*sqrt(15))/sqrt(3)))/(-6*-2*sqrt(99)*-2)*-6.
+  sqrt(2)/6
+ Simplify sqrt(55)/(sqrt(320) + (sqrt(320) - ((sqrt(320)*5 - sqrt(320)) +
+  sqrt(320))))*5.  -5*sqrt(11)/24
+ Simplify 5 + 5 + (sqrt(2736) + 3)**2 + 1 + ((-2 + sqrt(2736))*-6 + sqrt(2736) -
+  (5 + 4 + sqrt(2736)))**2.  101261 - 360*sqrt(19)
+ Simplify -5*5*(-2 + ((sqrt(63)/sqrt(3) - sqrt(21))/sqrt(3) -
+  4*sqrt(49)/sqrt(7))).  50 + 100*sqrt(7)
+train/calculus__differentiate
+ What is the third derivative of -38*q**4 - 78988*q**3 - 541*q**2 + 27180*q wrt
+  q?  -912*q - 473928
+ Find the third derivative of -35735389*i**4 - 8*i**3 + 5*i**2 - 80577410*i + 2.
+  -857649336*i - 48
+ Find the second derivative of -146052281*j**2 - 32191951*j.
+  -292104562
+ What is the first derivative of -199*y - 180 wrt y?  -199
+ Find the second derivative of 52*j**5 - 1541*j**4 + 126421*j.  1040*j**3 -
+  18492*j**2
+ What is the third derivative of 3681691*y**4 - 2*y**3 - 1716655*y**2?
+  88360584*y - 12
+ What is the third derivative of 523606*c**4 + 166*c**3 + 282094233*c**2 wrt c?
+  12566544*c + 996
+ What is the third derivative of -372758*p**4 + p**2 - 35709 wrt p?
+  -8946192*p
+ What is the second derivative of -29779118*s**4 - 10169243*s wrt s?
+  -357349416*s**2
+ What is the third derivative of -444233164*t**3 - 21*t**2 - 2645*t - 134?
+  -2665398984
+W0116 15:18:38.120936 140704436800320 generate.py:168] Dropped 10 examples
+train/calculus__differentiate_composed
+ Let j(x) = -27*x + 63*x - 34*x + 41. Let f be j(-19). Differentiate -8 + 0*a**3
+  + 13 + a**f wrt a.  3*a**2
+ Find the second derivative of -4*f + 10*f - 37*f**2 - 5*f**2 - 21*f wrt f.
+  -84
+ Suppose 2 = 3*t - 1. Let s(j) = 2*j. Let r be s(t). What is the third
+  derivative of -2*v**5 + 3*v**2 - v**r - v**2 wrt v?  -120*v**2
+ Let y(v) be the second derivative of 0 - v**3 - 11/6*v**4 - 19*v + 0*v**2. Find
+  the second derivative of y(p) wrt p.  -44
+ Let w be 1/(-1) + (119 - (-30)/(-5)). Find the third derivative of -34594*q**3
+  + 108*q**2 + 34594*q**3 - w*q**6 wrt q.  -13440*q**3
+ Let d = 204 + -199. Let o(h) be the third derivative of 0*h + 1/60*h**d -
+  4*h**2 + 0*h**3 + 0 - 1/8*h**4. What is the second derivative of o(m) wrt m?
+  2
+ Let g(t) be the first derivative of 0*t - 1 + t**2 + 0*t**3 + 0*t**4 +
+  3/5*t**5. What is the second derivative of g(w) wrt w?  36*w**2
+ Let h(a) = -252*a**5 + 87*a**2 + 3*a - 3. Let r(f) = -1264*f**5 + 436*f**2 +
+  16*f - 16. Let y(w) = 16*h(w) - 3*r(w). Find the third derivative of y(t) wrt
+  t.  -14400*t**2
+ Let p(n) be the first derivative of n**9/1512 - n**5/120 - n**3 - 2. Let z(y)
+  be the third derivative of p(y). Find the second derivative of z(j) wrt j.
+  40*j**3
+ Suppose -16*u + 20 = -12. Let n(w) be the first derivative of 5/2*w**u + w + 1.
+  What is the first derivative of n(z) wrt z?  5
+W0116 15:18:38.226002 140704436800320 generate.py:168] Dropped 2 examples
+train/comparison__closest
+ What is the nearest to -1/2 in 3, -89854, -2, -12?  -2
+ Which is the nearest to 1757?  (a) -0.2  (b) -0.09  (c) 0.08  (d) 1/3  (e) -3
+  (f) -56  d
+ Which is the closest to -2/7?  (a) 2/7  (b) -2/17  (c) 2  (d) 688  (e) -0.6
+  b
+ What is the closest to 0.1 in 24, -2/11, -5, -5.5?  -2/11
+ Which is the closest to 357?  (a) -3  (b) -79  (c) 5  (d) -2  (e) 4  c
+ What is the nearest to 9 in 0, -1/9, -4/9, -1/4?  0
+ What is the closest to 2/3 in 2/5, 0.5, 17/3?  0.5
+ Which is the nearest to -5/9?  (a) -3  (b) -0.3  (c) 9  b
+ What is the closest to 9 in 1, -28, -2/7?  1
+ Which is the nearest to 0.4?  (a) -23  (b) -3  (c) 143  (d) -3/4  (e) -1/4  (f)
+  2/17  f
+train/comparison__closest_composed
+ Let z = -3.7 + -17.3. Let p = -23 - z. Let f be (-8)/4 + 8/2. Which is the
+  nearest to p?  (a) -4  (b) f  (c) -1/7  c
+ Let s = 1828 + -1830. Let m = 258/77 + -40/11. Which is the closest to 5?  (a)
+  -0.02  (b) m  (c) s  a
+ Let t be ((-11)/2)/11*-326. Let w = -160 + t. What is the closest to -1 in 4/9,
+  w, -2/9?  -2/9
+ Let m = -10 + 15. Let t = 0.4 - -0.6. Let n = t - 1. Which is the closest to
+  -1?  (a) m  (b) 4  (c) n  c
+ Let d = 6.9 - 3.9. Which is the closest to 0?  (a) d  (b) 1/4  (c) 2/15
+  c
+ Let y = -6 + 7. Which is the nearest to y?  (a) 4  (b) -0.5  (c) 1  c
+ Let s be 4/10 - -7*(-6)/105. What is the nearest to s in 0, 2, 1/2?  0
+ Let d = -10 + 6. Let i = 4.5 + d. Let s = i + -0.8. What is the nearest to 0.1
+  in -0.1, 1, s?  -0.1
+ Let y = 19 - 18.5. Let f = 5 + -3. Let p = f + 1. Which is the nearest to -1/4?
+  (a) 4/3  (b) y  (c) p  b
+ Let p be (-7)/12 + (-8)/(-24). Which is the nearest to 4?  (a) -5  (b) 1/2  (c)
+  p  b
+W0116 15:18:38.288442 140704436800320 generate.py:168] Dropped 1 examples
+train/comparison__kth_biggest
+ What is the fourth smallest value in -0.13, 3/7, 2, 1, 0.27?  1
+ What is the fifth smallest value in 0.28, 3, -3/2, 5, -3/4?  5
+ Which is the second smallest value?  (a) -3  (b) -4  (c) 122  (d) -2
+  a
+ Which is the biggest value?  (a) 4  (b) -17  (c) -0.3  (d) -69  a
+ Which is the second smallest value?  (a) 5  (b) 141  (c) 3/2  (d) -5
+  c
+ What is the fifth smallest value in 993, 18/35, -0.4, -7, -0.1?  993
+ What is the fourth biggest value in -0.22, 0.6, -3/10, 0.2, 4, -0.04?
+  -0.04
+ Which is the biggest value?  (a) 5  (b) 0.28  (c) -5/132  (d) 4  a
+ What is the sixth biggest value in 5, 0.5, 1, -0.06, 0.02, 20?  -0.06
+ What is the biggest value in 2, -7, -2?  2
+train/comparison__kth_biggest_composed
+ Let g = 126757 + -32323081/255. Let p = 1/51 - g. Let z = -125.3 - -125. Which
+  is the biggest value?  (a) p  (b) -1/8  (c) z  a
+ Let o be 1/1 - (-8 - 471). Suppose 8*w = -0*w - o. Let l be 5/w - (-1)/(-4).
+  What is the second biggest value in l, -1, -3?  -1
+ Let k be (-2)/(-4)*(3 - 15). Let p be (0/(-4) - k)/(42/(-4)). Let n = -2.93 -
+  0.07. Which is the biggest value?  (a) n  (b) -0.4  (c) p  b
+ Let y be 5/(-14) + 2/4. Let z be (351/15)/((-27)/90). Let n be
+  (-6)/z*(-26)/(-8). What is the biggest value in y, -1/6, n, 5?  5
+ Let h = 0.0237 + 330.9763. Let j = -318 + h. What is the biggest value in -15,
+  1/3, j?  j
+ Let u = -0.06 - -4.06. Let k = -50 - -146/3. Suppose -3*i + 61 = 73. What is
+  the second smallest value in i, 2, u, k?  k
+ Let k be (-1)/6 + (-7464)/144. Let i be k/13 + (0 - -5). What is the second
+  biggest value in i, 4, -2/45?  i
+ Let z = -2 - -8. Let g = -132 - -136.1. Let a = 3.8 - g. What is the second
+  smallest value in a, z, -1/6?  -1/6
+ Let w = -20.99 - 0.01. Let f = w - -20. Let y = f - -1.5. Which is the smallest
+  value?  (a) -1  (b) y  (c) -3  c
+ Suppose 6 = 4*k - 2*k. Suppose 0*x - k = -x. Let j = 4.7 - 5. Which is the
+  biggest value?  (a) j  (b) x  (c) -2/7  b
+train/comparison__pair
+ Which is smaller: -9 or 2?  -9
+ Do -117 and 66416 have different values?  True
+ Is -1438 at most -1438?  True
+ Which is bigger: 21.2 or -0.00815?  21.2
+ Which is smaller: -60392 or -120783/2?  -60392
+ Is 171 greater than or equal to -3?  True
+ Is -1278 less than or equal to -1283?  False
+ Is 3353 greater than 3293?  True
+ Is 0 greater than or equal to -5/18731753?  True
+ Which is bigger: -3.79 or -265.16?  -3.79
+train/comparison__pair_composed
+ Suppose -81 = 2*x + 3*i, 670*i - 7 = 671*i. Is -214/7 != x?  True
+ Let q = -257.44 - -257.3. Suppose 3*i = -361 - 23. Let k be (24/i)/(1/4). Is k
+  less than or equal to q?  True
+ Let q = 0.169 - -20.931. Let r = q + -21. Which is greater: r or -1?
+  r
+ Let q be 255/(-15) + 34 - 2539. Is -12607/5 at most as big as q?
+  False
+ Suppose 2*t = -t. Suppose t = 3*r - 15. Do r and 5 have the same value?
+  True
+ Let r = -47926/75943 + -2/3997. Let p = 22/95 + r. Which is bigger: p or 0?
+  0
+ Suppose 0 = 2*y - y + 4*i, -3*i = 5*y. Let o be (4/(-14) - 18/84)*20. Let x be
+  (8/20*-1*o)/(-9). Which is greater: y or x?  y
+ Suppose 9 = 108*p - 105*p. Let z(i) = 3*i - 3. Let n be z(2). Is p < n?
+  False
+ Let x be 2/(-4)*2*1. Let p(v) = -5*v**2 + 5*v + 1. Let y(o) = 4*o**2 - 4*o - 1.
+  Let b(i) = 3*p(i) + 4*y(i). Let d be b(x). Which is smaller: d or 1/6?
+  1/6
+ Let k = 18/61 + -363/610. Let z be (-28)/(-21)*(-3 + (-18)/(-4)). Suppose l - 1
+  = z*l. Which is smaller: l or k?  l
+train/comparison__sort
+ Put -63, -1, -19, 2, 3, -5 in decreasing order.  3, 2, -1, -5, -19,
+  -63
+ Sort 1, -55, -61, 4 in descending order.  4, 1, -55, -61
+ Put 26, -5, -11472, -10, 7, -4 in ascending order.  -11472, -10, -5, -4,
+  7, 26
+ Sort -15, -25, 0, -9.  -25, -15, -9, 0
+ Put -1.9, 0.8, -14 in decreasing order.  0.8, -1.9, -14
+ Sort -1, 2/5, -3 in decreasing order.  2/5, -1, -3
+ Sort -8, 1, 0.1, 5, -2 in decreasing order.  5, 1, 0.1, -2, -8
+ Sort 304, -3/7, 1 in descending order.  304, 1, -3/7
+ Put -3, 42, -32, 5 in descending order.  42, 5, -3, -32
+ Sort -6, 26340, -3, 56.  -6, -3, 56, 26340
+train/comparison__sort_composed
+ Suppose 0 = -2*v + 2 + 2. Suppose 3*h = 3*t + 12, -4*h - v = 2*t - 0. Sort -4,
+  h, -1 in descending order.  h, -1, -4
+ Let c = 2564 - 2561. Sort 7, 4, 2, c in ascending order.  2, c, 4, 7
+ Let a be ((-344)/40 - -9)/((-6)/70) + 4. Let o = 168 - 172. Sort -0.2, o, 3/11,
+  a.  o, a, -0.2, 3/11
+ Let n = 16.032 - 0.032. Let m = 0.22 - -10.78. Let p = m - n. Put p, 0.3, -0.2
+  in decreasing order.  0.3, -0.2, p
+ Let n = 8 + -10. Suppose -20 = 2*r + 2*r. Let y be 0 - 1/((-1)/r). Put y, n, -3
+  in descending order.  n, -3, y
+ Let d be (-2)/(-3) + 1 + -2. Let y = -11615 - -58421/5. Let l = -69 + y. Sort
+  d, l, 1 in descending order.  1, l, d
+ Let l(h) = -h**3 + 9*h**2 - 9*h + 7. Let o be l(8). Put -5, o, 2 in decreasing
+  order.  2, o, -5
+ Let a be -145 + (-63)/(-210)*50. Sort 40, -1, a, -4 in decreasing order.
+  40, -1, -4, a
+ Suppose 0*p - 5 = 5*p, -3*v = -3*p. Let y = -4 + 3.9. Sort v, 5, y.  v, y,
+  5
+ Let s(p) = -p**2 + 18*p + 5. Let i be s(0). Sort 83, i, 4 in descending order.
+  83, i, 4
+train/measurement__conversion
+ How many millilitres are there in 0.6877289 litres?  687.7289
+ What is 3/8 of a microgram in nanograms?  375
+ How many milliseconds are there in 49505.73 days?  4277295072000
+ What is 85/6 of a day in hours?  340
+ Convert 4.102195 millilitres to litres.  0.004102195
+ What is fourty-five quarters of a kilogram in grams?  11250
+ What is 3/5 of a milligram in micrograms?  600
+ What is one twentieth of a centimeter in micrometers?  500
+ What is 906.46794 minutes in weeks?  0.089927375
+ How many kilograms are there in 58.68704 tonnes?  58687.04
+train/measurement__time
+ How many minutes are there between 1:12 PM and 9:56 PM?  524
+ How many minutes are there between 11:26 AM and 5:08 PM?  342
+ How many minutes are there between 6:21 PM and 4:09 AM?  588
+ What is 14 minutes before 11:06 PM?  10:52 PM
+ How many minutes are there between 6:11 AM and 8:35 AM?  144
+ How many minutes are there between 2:19 AM and 5:43 AM?  204
+ What is 514 minutes after 11:15 AM?  7:49 PM
+ What is 130 minutes before 12:05 AM?  9:55 PM
+ How many minutes are there between 11:50 PM and 12:46 AM?  56
+ How many minutes are there between 5:47 AM and 3:59 PM?  612
+train/numbers__base_conversion
+ What is -15b832 (base 12) in base 3?  -200221021002
+ 599 (base 11) to base 6  3145
+ What is -9 (base 13) in base 11?  -9
+ What is -11101000101 (base 2) in base 6?  -12341
+ -1131142 (base 5) to base 12  -10051
+ Convert -5a (base 16) to base 4.  -1122
+ Convert a7 (base 15) to base 3.  12211
+ Convert -110 (base 3) to base 14.  -c
+ -1315 (base 7) to base 11  -417
+ What is -101443 (base 5) in base 8?  -6455
+train/numbers__div_remainder
+ What is the remainder when 100807 is divided by 69?  67
+ Calculate the remainder when 1600384 is divided by 340.  4
+ Calculate the remainder when 101 is divided by 35.  31
+ Calculate the remainder when 15441 is divided by 249.  3
+ What is the remainder when 2157 is divided by 16?  13
+ What is the remainder when 120744 is divided by 59933?  878
+ What is the remainder when 1177260 is divided by 196130?  480
+ What is the remainder when 419524 is divided by 2856?  2548
+ Calculate the remainder when 82 is divided by 81.  1
+ Calculate the remainder when 1645896 is divided by 5695.  41
+train/numbers__div_remainder_composed
+ Suppose -7*x + 8*x - 24 = 0. Suppose d + d = x. What is the remainder when 33
+  is divided by d?  9
+ Suppose -4*o + 484 = d - 420, 0 = 4*d - o - 3599. What is the remainder when d
+  is divided by 53?  52
+ Let w = -107 - -154. What is the remainder when 231 is divided by w?
+  43
+ Suppose 26*b + 2 = 27*b. What is the remainder when 6 is divided by b?
+  0
+ Let h(o) be the first derivative of o**4/4 + 19*o**3/3 - o**2/2 - 9*o - 2. What
+  is the remainder when 59 is divided by h(-19)?  9
+ Let l = 0 - -39. Suppose 26*z = 7*z. Let y(h) = 8*h + 155. What is the
+  remainder when y(z) is divided by l?  38
+ Suppose -21 = -r + 26. Suppose 20 = o - 36. Suppose -5*u - x = -64, -u + o =
+  4*u - x. Calculate the remainder when r is divided by u.  11
+ Let f(v) = v**2 + 2*v - 3. Let c be f(-3). Suppose 4*y - 6 = 3*z, z + c*z = y -
+  1. Let w = -2637 - -2651. Calculate the remainder when w is divided by y.
+  2
+ Let u(g) = 6*g + 0*g - 13 + 2 - 22. Calculate the remainder when u(25) is
+  divided by 41.  35
+ Suppose -4*l + 52 = 5*o - o, o = 2*l - 38. Let z = 444 - 379. Calculate the
+  remainder when z is divided by l.  14
+train/numbers__gcd
+ Calculate the greatest common factor of 3223 and 214183.  293
+ What is the greatest common divisor of 28 and 133?  7
+ What is the highest common divisor of 22286 and 44?  22
+ What is the highest common divisor of 183 and 1891?  61
+ Calculate the greatest common divisor of 105347440 and 520.  40
+ What is the highest common factor of 756 and 788172?  84
+ Calculate the greatest common factor of 210981 and 18.  3
+ Calculate the highest common divisor of 977771 and 20398.  31
+ What is the highest common factor of 680 and 10?  10
+ What is the greatest common factor of 98 and 2?  2
+train/numbers__gcd_composed
+ Let q(o) = -4*o**3 - 15*o**2 - 12*o - 15. Let j be q(-6). Let l be j/6 -
+  (-1)/(-2). Calculate the highest common divisor of l and 7.  7
+ Let v be (-12)/8*92/(-6). Suppose 0 = -2*b + 557 - 51. Calculate the greatest
+  common factor of b and v.  23
+ Let r be ((-200)/15)/(4/(-12)). Suppose 4*n - r = -3*v, 0 = 3*v + 3*n - 4*n -
+  65. What is the greatest common divisor of 180 and v?  20
+ Let u(r) = 2*r**2 - 28*r + 6. Let j be u(18). Let z = 204 - j. Calculate the
+  greatest common factor of z and 135.  27
+ Suppose -139 = 9*l + 401. Let u = l - -248. Calculate the highest common factor
+  of u and 235.  47
+ Let i be (4/(-6))/((-2)/54). Let u(f) = -2*f**2 + 35*f + 8. Let b be u(18). Let
+  s = i - b. What is the highest common factor of 14 and s?  14
+ Let a be -1*5/1 - -1. Let r be (a/(-8))/(1*(-4)/(-48)). Let x be (-1 -
+  0)*1/(-1)*r. What is the highest common divisor of x and 2?  2
+ Suppose -121 = 7*d - 8*d. What is the highest common divisor of 11 and d?
+  11
+ Suppose -135 = -3*h - 12*h. What is the greatest common divisor of 9 and h?
+  9
+ Let y = -15477 + 15488. Suppose -3*p + 1408 = p. Calculate the highest common
+  divisor of p and y.  11
+train/numbers__is_factor
+ Does 9 divide 117?  True
+ Is 5628785 a multiple of 17?  True
+ Is 516873194 a multiple of 94?  True
+ Is 11 a factor of 509?  False
+ Does 58 divide 239590112?  True
+ Does 38 divide 28349748?  True
+ Does 37 divide 999?  True
+ Is 459452954 a multiple of 2?  True
+ Is 25 a factor of 43125?  True
+ Is 16281713 a multiple of 46?  False
+train/numbers__is_factor_composed
+ Let m(f) = 6*f - 11*f + 42*f + 36. Is m(12) a multiple of 34?  False
+ Suppose -3*y + 51 = -0*p - 2*p, 5*y - 69 = -2*p. Suppose 5*l + y = 0, 0 = d +
+  5*l + 1 - 6. Does 10 divide d?  True
+ Let u(o) = 87*o**2 - o - 1. Let s be u(-1). Suppose s - 6 = 3*y. Is 9 a factor
+  of y?  True
+ Suppose 12*w + 7*w - 38 = 0. Let i(p) = 49*p - 7. Let r(y) = y. Let f(k) = i(k)
+  + 2*r(k). Is f(w) a multiple of 29?  False
+ Let c = -9 - -15. Does 5 divide c?  False
+ Let j(c) = 1 - 3*c. Let y be 2/(4/38) + 1. Suppose -n - y = 4*n. Does 13 divide
+  j(n)?  True
+ Let d = 111 - -256. Is d a multiple of 14?  False
+ Suppose 8*i - 6*i + 6 = 0. Let t be 1 + i + 2 + 0. Suppose t = 3*c, -q + c =
+  3*q - 568. Is 18 a factor of q?  False
+ Suppose -2*i - 5*q + 418 = 0, 384 + 10 = 2*i - q. Let r = 279 - i. Does 40
+  divide r?  True
+ Suppose 0*s + 15 = c + 3*s, s = -c + 11. Let j be 831*((-30)/c - -4). Suppose
+  4*m - j = 2*x, 0 = 3*m + 3*x - 279 - 159. Does 12 divide m?  False
+train/numbers__is_prime
+ Is 62299133 composite?  True
+ Is 1150531 a prime number?  True
+ Is 20885 prime?  False
+ Is 33922087673 composite?  False
+ Is 1628051 a prime number?  True
+ Is 6873017299 a composite number?  False
+ Is 20623 a prime number?  False
+ Is 26306971 a prime number?  True
+ Is 4973474431 composite?  True
+ Is 714247 prime?  True
+train/numbers__is_prime_composed
+ Let l(u) = -35*u**2 + 63*u - 124. Let w(g) = 7*g**2 - 12*g + 25. Let p(r) =
+  2*l(r) + 11*w(r). Is p(-22) a composite number?  False
+ Suppose 152 = -4*d - 112. Let c = 187 + d. Is c a prime number?  False
+ Suppose 10*i - 748 = 7042. Is i prime?  False
+ Let g(i) be the third derivative of 611*i**4/24 + 7*i**3/6 + 22*i**2 - 2. Is
+  g(2) composite?  False
+ Let l(b) = -b - 11. Let j be l(-6). Let m = j - -10. Suppose 0 = p - m, -3*i -
+  p + 170 = 0. Is i a composite number?  True
+ Let d(j) = -46*j**3 - 28*j**2 + j - 96. Is d(-13) a prime number?
+  True
+ Let z(v) = -51549*v - 4654. Is z(-3) a composite number?  False
+ Suppose 11*d = 13*d + 4*i - 49806, -d + 5*i = -24854. Is d prime?
+  True
+ Suppose 3*l = 3471 + 6360. Is l a prime number?  False
+ Suppose 4*u + 4*k = -92, 0*u + 2*k - 74 = 4*u. Let i be (-24)/u*5/2. Suppose
+  0*b + i*t - 11 = -2*b, -4*t = 20. Is b prime?  True
+train/numbers__lcm
+ Calculate the common denominator of -93/10 and -133/54.  270
+ Calculate the common denominator of -91/7194 and 1/24.  28776
+ Calculate the least common multiple of 144 and 36.  144
+ What is the common denominator of -26/181 and 6/1224827?  1224827
+ Calculate the least common multiple of 33 and 90.  990
+ What is the least common multiple of 627520 and 185?  627520
+ What is the common denominator of -7/153 and -47/15?  765
+ What is the least common multiple of 3835 and 22383?  85838805
+ Calculate the smallest common multiple of 44 and 120.  1320
+ Calculate the smallest common multiple of 227 and 49032.  49032
+train/numbers__lcm_composed
+ Suppose -3*q - 12*w = -13*w - 65, -q - 4*w + 13 = 0. Calculate the smallest
+  common multiple of 98 and q.  294
+ Let z = -58689/32300 + 764/425. What is the common denominator of -49/20 and z?
+  6460
+ Let m be ((-114352382)/(-4))/((-1)/(-2)). Let g = m - 106290543121/1859. Let z
+  = g - -15/169. Calculate the common denominator of -53/10 and z.  110
+ Suppose -373*a = -375*a + 44. Find the common denominator of (a - 18) +
+  (-17)/(-16) and -17/80.  80
+ Suppose 0 = -3*x - 5*d + 472, 1053*d + 612 = 4*x + 1051*d. What is the least
+  common multiple of x and 924?  924
+ Let a be (-6)/12*1*5078. Let h = a - -20345/8. Find the common denominator of h
+  and -11/10.  40
+ Suppose -2*u = -4*j + 244, -2*j = -j + 3*u - 61. What is the common denominator
+  of -1*2/6*j and -57/8?  24
+ Let b = 724 - 316. Let t = -627 + b. What is the common denominator of (t/(-96)
+  - -2)/((-6)/8) and -69/20?  120
+ Suppose 6*b = m - 144, -b - 370 = -3*m - 23. What is the least common multiple
+  of m and 266?  798
+ Find the common denominator of 35/10*(6 - 969/238) and (6/15)/(12/205).
+  12
+train/numbers__list_prime_factors
+ List the prime factors of 61036029.  3, 383, 17707
+ List the prime factors of 5273.  5273
+ What are the prime factors of 1044017?  13, 80309
+ List the prime factors of 74524.  2, 31, 601
+ List the prime factors of 51320.  2, 5, 1283
+ What are the prime factors of 165348?  2, 3, 1531
+ List the prime factors of 779112522.  2, 3, 31, 1396259
+ What are the prime factors of 134543709?  3, 727, 20563
+ List the prime factors of 29925443.  53, 269, 2099
+ What are the prime factors of 3418043?  19, 179897
+train/numbers__list_prime_factors_composed
+ Suppose -3*d = 2*d - 1640. Suppose -9*c = -5*c - 8. Suppose -c*f - d = -6*f.
+  What are the prime factors of f?  2, 41
+ Suppose -2*b = -4*b - 4, 0 = 2*d - 5*b + 208. Let z = d - -114. Suppose 3*q -
+  321 = -z*j, 3*j - 535 = 2*q - 7*q. What are the prime factors of q?
+  107
+ Let q be 143 + (-1 - (-6)/(-3)). Suppose -4*v + 58 = -4*a - 102, 0 = 3*v + a -
+  q. What are the prime factors of v?  3, 5
+ Suppose 3*r - 5*z + 7 = 3, -5*z + 10 = 0. Suppose 3*m + 7 = 4*y, 5*y - 3*m - 1
+  - 4 = 0. List the prime factors of (y/(-2))/(r/6).  3
+ Let g be -20 + 25 - (-1 - -2). List the prime factors of g - (12/(-4) - 37).
+  2, 11
+ Let v(y) = y**3 - 26*y**2 - 17*y - 140. What are the prime factors of v(30)?
+  2, 5, 59
+ Suppose 4*n - 31 = -x, 3*n - 3*x = -6*x + 12. What are the prime factors of n?
+  3
+ Let b(w) = -w**3 - 10*w**2 + 33*w + 10. Suppose -4*n - 9 = f, -2*f + 7*f - 3*n
+  = -68. What are the prime factors of b(f)?  2, 11
+ Suppose -c - 7 = -27. Suppose 2*t - 6*t = -112. Let n = t - c. What are the
+  prime factors of n?  2
+ Suppose -a = 2*a - 21. What are the prime factors of a?  7
+train/numbers__place_value
+ What is the ten millions digit of 337787753?  3
+ What is the tens digit of 525?  2
+ What is the thousands digit of 30868?  0
+ What is the hundreds digit of 36947?  9
+ What is the thousands digit of 2353?  2
+ What is the thousands digit of 281588?  1
+ What is the ten thousands digit of 950975?  5
+ What is the billions digit of 6119896257?  6
+ What is the tens digit of 287?  8
+ What is the hundred thousands digit of 12984678?  9
+train/numbers__place_value_composed
+ Let i(a) = a**2 + 3*a - 3. Let n be i(-5). Suppose 2*k + 3 = -n. Let u = -1 -
+  k. What is the units digit of u?  4
+ Let t = 0 + -1. Let b be (0 + t)/(3/(-132)). Let s = -8 + b. What is the units
+  digit of s?  6
+ Suppose -31*z + 104 = -18*z. What is the units digit of z*(3 -
+  2)/((-24)/(-348))?  6
+ Let j = 6 + -1. Suppose -4*x = 2*t + t + 16, j*t = 4*x + 16. Suppose -i = -4*r,
+  t = 5*i - i + 4*r - 100. What is the tens digit of i?  2
+ Let y = -18527 + 20923. What is the units digit of y?  6
+ Let w = -711 + 2712. What is the thousands digit of w?  2
+ Suppose -2*t = 3*n - 379, 0 = n - 2*t - 85 - 44. What is the units digit of n?
+  7
+ Let p = 8606 - 4931. What is the hundreds digit of p?  6
+ Let f(u) = u**3 - 3*u**2 + 9*u - 6. Let n(g) = 3*g**3 - 10*g**2 + 26*g - 17.
+  Let v(p) = 11*f(p) - 4*n(p). What is the units digit of v(6)?  8
+ Suppose -5*c + 339813 = a, 3*c - 47*a = -46*a + 203883. What is the tens digit
+  of c?  6
+train/numbers__round_number
+ Round -158456.963 to the nearest ten thousand.  -160000
+ Round -65.1 to the nearest ten.  -70
+ Round -2220 to the nearest 1000.  -2000
+ What is 10209.52706 rounded to 0 decimal places?  10210
+ What is 36.4221 rounded to 1 dp?  36.4
+ Round -30378.2932 to zero dps.  -30378
+ Round 2645427.53 to the nearest 100.  2645400
+ Round 11980 to the nearest 1000.  12000
+ Round 0.00001002 to 7 dps.  0.00001
+ Round -577460 to the nearest one hundred thousand.  -600000
+train/numbers__round_number_composed
+ Let k = -2.018918 - -1.9874. What is k rounded to two dps?  -0.03
+ Let r = -53.16 - -53.103359. What is r rounded to 2 decimal places?
+  -0.06
+ Let b = -40.71042 - 0.11758. Let y = b - 0.072. Round y to 0 decimal places.
+  -41
+ Let s = 89.7224 - -17.8608. Let r = s - 98.58. Let o = r + -9. Round o to 3
+  decimal places.  0.003
+ Let y = -3.14286 - -3.14. What is y rounded to 4 decimal places?
+  -0.0029
+ Suppose 5*d = -4*t + 30, -d = -2*t - t + 13. Suppose h = d*h - 7400. What is h
+  rounded to the nearest one thousand?  7000
+ Let t = 108.28 + -107.26776. What is t rounded to two decimal places?
+  1.01
+ Let s = 598933579.999214 - 598932930. Let j = s - 650. Round j to five dps.
+  -0.00079
+ Suppose 7829 = 3*r - 3907. What is r rounded to the nearest one thousand?
+  4000
+ Let p = 1.36400773 - 1.364. What is p rounded to six dps?  0.000008
+train/polynomials__add
+ Let u(t) = 6*t**3 - 8*t + 2. Let p(j) = j**2 + 2*j. Calculate 3*p(n) + u(n).
+  6*n**3 + 3*n**2 - 2*n + 2
+ Let o(d) = 20*d**2 + 100*d - 2. Let s(q) = 17*q**2 + 96*q - 2. Determine 5*o(w)
+  - 6*s(w).  -2*w**2 - 76*w + 2
+ Let h(b) = 5*b**2 + 5*b - 4. Let s(k) = -6*k**2 - 6*k + 5. Give -4*h(n) -
+  3*s(n).  -2*n**2 - 2*n + 1
+ Let q(g) = 11*g. Let b(d) = 6 - 16*d. Let o(m) = m - 1. Let n(i) = -b(i) -
+  6*o(i). Determine 2*n(z) - 3*q(z).  -13*z
+ Suppose 3*t + 5 = -2*t. Let i(h) = -h. Let k be 21/(-420)*-20*-4. Let d(c) =
+  8*c. Give k*i(q) + t*d(q).  -4*q
+ Let y(m) = -2*m**3 + 63*m**2 + 7*m + 1. Let d(i) = -2*i**3 + 64*i**2 + 6*i + 1.
+  What is 6*d(b) - 5*y(b)?  -2*b**3 + 69*b**2 + b + 1
+ Let g(t) = -13*t**3 - 11*t**2 + t + 5. Let c(z) = 6*z**3 + 5*z**2 - 2. Give
+  5*c(r) + 2*g(r).  4*r**3 + 3*r**2 + 2*r
+ Let q(r) = -3*r**2 - 2. Let f(d) = 111*d**2 + 6*d - 9. Determine f(h) - 5*q(h).
+  126*h**2 + 6*h + 1
+ Let i(b) be the first derivative of 111 - b**2/2. Let p(u) = 4*u**2 - 6*u.
+  Determine 6*i(z) - p(z).  -4*z**2
+ Let b(t) = 3*t**3. Let n(i) = 9*i**3 + 11*i**2 - 7. Calculate 5*b(o) - n(o).
+  6*o**3 - 11*o**2 + 7
+W0116 15:18:39.279866 140704436800320 generate.py:168] Dropped 4 examples
+train/polynomials__coefficient_named
+ Rearrange -y + 11*y**2 + 6*y**2 - 2*y - 24*y**3 - 16*y**2 to k*y + t*y**2 + x +
+  g*y**3 and give k.  -3
+ Rearrange -5*u**2 + 70*u + 3*u**2 - 9*u to k*u**2 + z*u + h and give k.
+  -2
+ Rearrange 26*s**3 - 7*s**3 - 13*s**3 - 3*s**3 - 5*s**3 - 4095*s**2 to the form
+  c*s**3 + i*s + q*s**2 + m and give c.  -2
+ Express (0*b + 2*b + 0*b)*(6 - 2 - 1) - 3*b + 4*b - 3*b - 2 + 2 - b + (-3*b +
+  5*b + 0*b)*(257 + 36 - 24) - 5*b + b + 3*b as c*b + p and give c.
+  540
+ Rearrange 2*a - 6*a**4 - 3*a + 3*a**3 + 2*a**2 - 3*a**3 to t*a**4 + k*a + h +
+  n*a**2 + y*a**3 and give k.  -1
+ Rearrange 6*o + 2*o + 3*o + o + o**3 to z*o + a + u*o**3 + f*o**2 and give u.
+  1
+ Express 2*o**3 + o**3 - o**3 + (4 + 0 - 2)*(-o**3 + 6*o**3 - 4*o**3) + 4*o**2 -
+  938*o**3 + 24*o**3 - 4*o**2 - 594*o**3 as l + i*o**2 + g*o + c*o**3 and give
+  c.  -1504
+ Express -m**4 + 0*m**4 - 3*m**4 + 36*m**4 - 38*m**4 + 24*m**4 + (2*m - 2*m**3 -
+  2*m)*(0*m - 2*m + m) in the form f*m**3 + c*m + k*m**2 + t*m**4 + r and give
+  t.  20
+ Rearrange 17 + a**3 - 2*a**2 - 17 + 2*a**4 to c*a**4 + x*a + g + n*a**2 +
+  f*a**3 and give n.  -2
+ Rearrange -32 - 25*g + 32 - 2*g + 5*g - 5*g + (-3 - 1 + 6)*(0 + 0 + 2*g) + 5 -
+  5 - 3*g to d + y*g and give y.  -26
+train/polynomials__collect
+ Collect the terms in -215573*y**2 - 215753*y**2 + 430997*y**2.
+  -329*y**2
+ Collect the terms in -4*f + 9*f - 24 + 4*f + 2*f - 12*f.  -f - 24
+ Collect the terms in 87900*n + 47913*n + 57279*n - 33081*n + 7745*n.
+  167756*n
+ Collect the terms in -2*j**2 - 2*j**2 - j**2 - 12.  -5*j**2 - 12
+ Collect the terms in 9*j + 13*j - 10*j - 26*j + 7*j + 6*j.  -j
+ Collect the terms in -69*h + 4*h + 26*h + h.  -38*h
+ Collect the terms in 7 - 42375*m**2 + 49 + 42376*m**2.  m**2 + 56
+ Collect the terms in -1751 + 1751 - 598*k**2 + 589*k**2.  -9*k**2
+ Collect the terms in -7290*t**2 - 24*t**3 + 7290*t**2.  -24*t**3
+ Collect the terms in -6229052 - 14773*k + 14751*k + 6229054.  2 - 22*k
+train/polynomials__compose
+ Let p(s) = -4*s. Let m be (-1 + 5)*(2 + 0). Let c(k) = 10 - k. Let i be c(m).
+  Let f(w) = 70 - i*w**2 - 70. Calculate p(f(y)).  8*y**2
+ Let z(d) = -9*d**2. Let c(i) = -15*i**2 + 15*i. Let s(u) = -8*u**2 + 9*u. Let
+  g(o) = 3*c(o) - 5*s(o). Calculate g(z(j)).  -405*j**4
+ Let x(s) = 510*s**2. Let r(m) = 92159*m**2. Give x(r(w)).
+  4331573453310*w**4
+ Let n(x) be the first derivative of 578 - 267*x**2. Let o(c) = -c**2. Calculate
+  n(o(b)).  534*b**2
+ Let p(y) = -141*y - 4. Let j(a) = 139*a + 5. Let u(w) = -4*j(w) - 5*p(w). Let
+  c(f) = f. What is u(c(t))?  149*t
+ Let t(g) = -6*g. Let s(x) = -999670*x. Calculate t(s(y)).  5998020*y
+ Let t(g) = -78*g**2. Let d(c) = -3141*c. Determine t(d(q)).
+  -769538718*q**2
+ Let y(w) = 3*w**2 + 5*w + 5. Let n(b) = -b - 1. Let k(v) = -5*n(v) - y(v). Let
+  s(z) = z. Determine k(s(x)).  -3*x**2
+ Let i(y) = 67*y**2. Let h(q) = 56 - 64*q. Let u(s) = 2*s**3 + s**2 + 5*s + 3.
+  Let r be u(-1). Let g(f) = 6 - 7*f. Let m(z) = r*h(z) + 28*g(z). What is
+  m(i(k))?  -268*k**2
+ Let z(o) be the first derivative of -o**5/40 + 5*o**3/3 - 1. Let r(u) be the
+  third derivative of z(u). Let w(n) = -n + 5*n + 1 - 1. Calculate w(r(f)).
+  -12*f
+W0116 15:18:39.617058 140704436800320 generate.py:168] Dropped 2 examples
+train/polynomials__evaluate
+ Let w(v) = -15*v - 109. Determine w(-9).  26
+ Let u(j) = -j**3 - 32*j**2 - 84*j - 34. Give u(-3).  -43
+ Let q(x) = -x**3 - 38*x**2 + 83*x + 49. Calculate q(-40).  -71
+ Let r(c) = -3*c**3 + 5*c**2 - 14*c + 72. Give r(5).  -248
+ Let d(a) = a**3 + 4*a**2 + 3*a - 1. What is d(-3)?  -1
+ Let w(u) = -u**2 - 23*u - 27. Calculate w(-25).  -77
+ Let d(t) = 4 - t. What is d(5)?  -1
+ Let p(b) = -4*b - 3. Determine p(-3).  9
+ Let d(z) = -37*z**3 - 519*z**2 - 14*z + 4. What is d(-14)?  4
+ Let x(r) = 55*r - 6075. Determine x(110).  -25
+train/polynomials__evaluate_composed
+ Let a(k) = 10 - k**2 - 3 + 2*k**2. Give a(0).  7
+ Let j(r) = -r**3 - 5*r**2 + 5. Let u(g) = -4*g**2 + 8 + g**3 - g - 2 - 7. Let m
+  be u(4). Give j(m).  5
+ Let a(h) = h**3 + 6*h**2 - 6*h. Suppose -2*d - 35 = 3*d. What is a(d)?
+  -7
+ Let b(v) = 6 - 10*v. Let w(p) = 6 + 40 - 7*p - 40. Let s(q) = -2*b(q) + 3*w(q).
+  Give s(-6).  12
+ Let a(s) = 36 - s + 2*s - 120 + 37 + 35. Calculate a(15).  3
+ Let a(l) be the first derivative of -l**3/3 - 23*l**2/2 + 11*l + 673. Determine
+  a(-23).  11
+ Suppose 4*q + 3*d = -1, 3 = -d - 0. Let h(g) = -7*g**q + g + g - 2*g. Let v be
+  5/7 - (-2)/7. Determine h(v).  -7
+ Suppose 3*r - 3*l = -30, -2*r + 7*l - 6*l - 16 = 0. Let c(z) = z**3 + 14*z**2 +
+  51*z + 11. Calculate c(r).  -7
+ Let z(i) be the first derivative of i**5/40 + i**4/3 + 9*i**3 - i + 147. Let
+  f(j) be the third derivative of z(j). Give f(-7).  -13
+ Let w(t) = -t**3 - 6*t**2 + 6. Let s be ((-15)/(-10)*-2)/(-1). Let h(v) = v**3
+  + 6*v**2 + v - 6. Let i(g) = s*h(g) + 2*w(g). Calculate i(-5).  4
+train/polynomials__expand
+ Expand (-32*j**2 + 393*j - 393*j)*(2*j**2 - 4 + 4).  -64*j**4
+ Expand (2*u - 2*u + 2*u**2)*(-6*u**3 + 11*u - 11*u).  -12*u**5
+ Expand (-5*q + 2 - 2)*(6 - 4 - 1)*(4 + 6 + 4).  -70*q
+ Expand (176 - 176 + 40*s)*(-16*s + 14 - 14) + 3 - 3 + s**2 - 8*s**2 - 3 + 3 +
+  s**2 + 3*s**2 - 3*s**2 + (2*s**2 - 4*s**2 + 0*s**2)*(-1 + 2 + 1).
+  -650*s**2
+ Expand 0*c + 3*c**3 + 0*c + (-c + 2 - 2)*(-4*c + 12*c - 37*c)*(0*c + 2*c +
+  0*c)*(-4 - 5 + 2) + (0*c**2 + 3*c**2 - 2*c**2)*(c - 3*c + 3*c).
+  -402*c**3
+ Expand (-1619*g - 2641640 + 102680*g + 2641640 + 7951*g)*(-2 + 1 - 1).
+  -218024*g
+ Expand (2*v + 4 - 4)*(8 - 14 - 29)*((0 - 2 + 3)*(1 + 0 - 3) - 3 - 1 - 2).
+  560*v
+ Expand (q + 3*q + 0*q)*(30 - 28 + 40).  168*q
+ Expand 3*b - 3*b + b**5 + (-4*b**2 + 5*b**2 - 2*b**2)*(b**3 + 2*b**3 - 6*b**3).
+  4*b**5
+ Expand (-q + q + 2*q**4)*(-52 + 25 + 5261*q + 21 + 6).  10522*q**5
+train/polynomials__simplify_power
+ Simplify ((k/k**0)/(k**(1/3)/k))/(k/(k*(k/((k*k**(-3/11)/k)/k))/k))**(-13/2)
+  assuming k is positive.  k**(-218/33)
+ Simplify (((m*((m**9/m)/m)/m*m*m)/m*m*m*m)/m**10)**(6/37) assuming m is
+  positive.  m**(6/37)
+ Simplify (o**16*o**(-5/9)*o*o)/(o**(-6))**(-6/5) assuming o is positive.
+  o**(461/45)
+ Simplify (a**19)**(4/3)*(a*a/(a*a/((a**(-2/45)/a)/a)*a))/(a/a**(-25)) assuming
+  a is positive.  a**(-167/45)
+ Simplify (v*v**3*v**(-2/25))/(v**(-2/15))**(2/45) assuming v is positive.
+  v**(106/27)
+ Simplify w**(-28)/(w/(w*w**(-26))*w)*(w**(-26/9))**(-8/19) assuming w is
+  positive.  w**(-9197/171)
+ Simplify ((g*g*g**1*g*g)**0/(g**(-2/5)/g)**(2/25))/((g*((g*g**(-
+  3)*g)/g)/g)/(g**(3/8)*g)*(g**(2/5))**4) assuming g is positive.
+  g**(1887/1000)
+ Simplify g*g/(g*g**1)*g*g**6*(g*(g*g**3)/g)/g*g*g/((g*g**(-
+  1/2)/g*g*g)/g)*((g/g**(-1))/g)**(-35)/(g**1*g)**(4/9) assuming g is positive.
+  g**(-439/18)
+ Simplify (c**32*c**(-3)*c)**(2/19) assuming c is positive.  c**(60/19)
+ Simplify (((n*n**1)/n**(1/7))**(3/25))**(-2/3) assuming n is positive.
+  n**(-26/175)
+W0116 15:18:39.985144 140704436800320 generate.py:168] Dropped 1 examples
+train/probability__swr_p_level_set
+ Calculate prob of picking 1 n and 2 y when three letters picked without
+  replacement from {n: 6, y: 9, k: 1, c: 1}.  27/85
+ Four letters picked without replacement from {z: 1, f: 1, w: 2, h: 5, c: 3}.
+  Give prob of picking 4 h.  1/99
+ What is prob of picking 1 m and 2 l when three letters picked without
+  replacement from llmmhhhhmllhlllhm?  21/170
+ Three letters picked without replacement from ffxxxffxvfu. What is prob of
+  picking 3 f?  2/33
+ Four letters picked without replacement from {a: 4, x: 1, u: 2, g: 2, z: 2, s:
+  1}. Give prob of picking 2 z and 2 a.  2/165
+ Four letters picked without replacement from {l: 1, w: 2, m: 1, y: 3}. What is
+  prob of picking 1 y, 2 w and 1 m?  3/35
+ Two letters picked without replacement from jvvvvjvvvvvvv. Give prob of picking
+  1 j and 1 v.  11/39
+ Two letters picked without replacement from ijifiiiijijiij. Give prob of
+  picking 1 f and 1 i.  9/91
+ Three letters picked without replacement from esowokks. Give prob of picking 1
+  s and 2 k.  1/28
+ What is prob of picking 1 s and 1 d when two letters picked without replacement
+  from {a: 4, d: 2, s: 4, y: 2}?  4/33
+train/probability__swr_p_sequence
+ Calculate prob of sequence csrr when four letters picked without replacement
+  from {r: 4, v: 1, s: 10, c: 1, w: 2}.  1/612
+ Calculate prob of sequence wywy when four letters picked without replacement
+  from {j: 2, y: 3, w: 3}.  3/140
+ What is prob of sequence jmkc when four letters picked without replacement from
+  {m: 2, j: 2, k: 2, r: 2, z: 5, c: 1}?  1/3003
+ What is prob of sequence gd when two letters picked without replacement from
+  ddxxdddggdd?  7/55
+ What is prob of sequence je when two letters picked without replacement from
+  gjjgcgjjggljgggregjj?  7/380
+ Three letters picked without replacement from {r: 7, w: 3, p: 2, x: 1, l: 1}.
+  What is prob of sequence rlp?  1/156
+ Two letters picked without replacement from {f: 2, i: 9, r: 8}. Give prob of
+  sequence ii.  4/19
+ Three letters picked without replacement from mxxmxymmaa. Give prob of sequence
+  axx.  1/60
+ What is prob of sequence ggx when three letters picked without replacement from
+  kxgzgggggxgkzhg?  8/195
+ Four letters picked without replacement from {r: 2, i: 3, j: 1, g: 2, q: 4}.
+  What is prob of sequence qjii?  1/495
+interpolate/algebra__linear_1d
+ Solve 6669*l - 1424 = 6758*l for l.  -16
+ Solve 21*s = -243*s - 1848 for s.  -7
+ Solve 2046*l - 116272 = 4750*l for l.  -43
+ Solve 0 = -930*i + 1094*i - 1312 for i.  8
+ Solve 257*d - 97*d = 101*d - 718 - 1406 for d.  -36
+ Solve -789*d + 955 + 354 = -4214 for d.  7
+ Solve 471*b = 21426 + 240 for b.  46
+ Solve 0 = -1186*w + 5341 - 4201 - 28418 for w.  -23
+ Solve 101 + 13 = 16*k - 158 for k.  17
+ Solve 40*l + 171 = -4*l - 22*l + 9*l for l.  -3
+interpolate/algebra__linear_1d_composed
+ Let w(j) = 10 - 9*j. Let r(o) = 3*o - 3. Let u(y) = -8*r(y) - 3*w(y). Let s be
+  u(7). Solve 3*m = -2*m + s for m.  3
+ Let h = -1156 + 1172. Solve 3*r + r = h for r.  4
+ Let x be (-93)/(-6) - 30/(-60). Solve -40 - x = -14*u for u.  4
+ Let t be 44 - (9 - 0 - 3). Solve 43*j + 5 = t*j for j.  -1
+ Suppose h + w + 4*w - 18 = 0, -3*h - 4*w = -21. Let r be 22/(-33) + 17/h.
+  Suppose -4*d + 20 = r*s, d + 5*s - 3*s - 8 = 0. Solve 3 + d = -z for z.
+  -3
+ Let h = 10 - 13. Let l(c) = c + 9. Let g be l(h). Suppose 0 = 2*u + u - g.
+  Solve -u*q + 10 = -4*q for q.  -5
+ Suppose -m = -3*n - 132, -33*m - 252 = -35*m + 3*n. Solve m*d = 125*d + 20 for
+  d.  -4
+ Let s = 159 - 171. Let g be (50/(-30))/(10/s). Solve 7*f = g*f + 15 for f.
+  3
+ Suppose 119*l - 2438 = 13*l. Let n(r) = 1 - 2*r. Let x be n(-1). Solve x*q = 8
+  - l for q.  -5
+ Let t(r) = -r**2 + 8*r - 7. Let v be t(6). Suppose -5*g - 2*q = -4*q + v, 0 = g
+  - 2*q + 9. Suppose 2*k - 47*k = -135. Solve -g = k*s - 4*s for s.  1
+interpolate/algebra__linear_2d
+ Solve p + 4*p = 554*q - 557*q + p + 43, 0 = 4*p + 20 for q.  21
+ Solve -5*h = -3069*q + 3084*q + 95, 4*h - q = 2 for h.  -1
+ Solve -39*f + 87*f = 47*f + 4*p + 17, 59 = 4*f - 13*p for f.  5
+ Solve -14*k - 22*k = -m + 13, 197*m - 52 = 193*m + 4*k for m.  13
+ Solve -5*r = 4*a - 3, 74858*r = -2*a + 74855*r - 1 for a.  7
+ Solve -5*m - 5*d = -10, 2*d - 3387 = -19*m - 3315 for m.  4
+ Solve -4*k = q - 5, 3 = -5*q - 22414*k + 22422*k for q.  1
+ Solve -3*w = 35*n - 37*n - 73, 3*w + n - 58 = -0*n for w.  21
+ Solve -14*w = -3*d - 39, 5*w + 6 - 20 = -9000*d + 9001*d for w.  3
+ Solve -2*w + 6*w = 3*m + 1, m - 3631*w + 11 = -3619*w for m.  1
+interpolate/algebra__linear_2d_composed
+ Let a(y) = 1 - y - 1 - 4*y + 2*y**3. Let p be a(2). Suppose 4*o = 46 - p. Solve
+  -2*u - 2 = -j - 0*j, 5*j - o = 3*u for u.  0
+ Let v = -157 - -181. Suppose 183*p - v = 177*p. Solve 2*z - 13 = c, 0 = 5*z -
+  2*c - 27 - p for z.  5
+ Suppose 4*l - 27 - 1 = 0. Let v = 4112 - 4108. Solve 0*d - 3*d + l = -4*r, -5*d
+  - 31 = v*r for r.  -4
+ Suppose -1053 = -12*b - 1017. Solve 0 = -4*i - b*h + 21 - 3, -4*i + 22 = 5*h
+  for i.  3
+ Let m be 5 - (-8)/((-80)/54) - (-274)/10. Solve 4*i + m = -3*c, -5*i + 6*c -
+  3*c = 0 for i.  -3
+ Let o be (-54)/(-3)*6/9. Let y be 25/9 - o/(-54). Let l = 3 + 1. Solve 2*r =
+  -2, l = a - 4*r + y for a.  -3
+ Let c(o) = 5*o - 80. Let i be c(18). Suppose h - 8 = -h, -5*h = -j - i. Solve
+  -4*u + 2*u - 5*p = -j, 5*u + 2 = p for u.  0
+ Let b be (1 - (-4)/(-6))*-3. Let k = b - -4. Let z = -5729 - -5734. Solve -n -
+  9 = -0*n - z*j, 4*n + 13 = -k*j for n.  -4
+ Suppose -4*g + 20 = -0*g. Let x be 72/120 - (7/(-5) + -2). Solve g*r - 4*c - 15
+  = -c, 20 = 5*r - x*c for r.  0
+ Suppose 3*b = 13*b - 1700. Let t = 178 - b. Solve -4*m - 9 = -5*a, -3*a - 1 =
+  -4*m - t for a.  1
+interpolate/algebra__polynomial_roots
+ Find b such that -3*b**3/5 - 2703*b**2/5 + 118947*b/5 + 121647/5 = 0.
+  -943, -1, 43
+ What is l in -l**4 - 2521*l**3 - 1585068*l**2 + 4788028*l + 6370576 = 0?
+  -1262, -1, 4
+ Determine h so that -4*h**2/5 - 9764*h + 3634584/5 = 0.  -12279, 74
+ Factor 5*b**2 - 915*b - 920.  5*(b - 184)*(b + 1)
+ Let -t**4 + 997565*t**3 = 0. Calculate t.  0, 997565
+ Factor -3*f**2/2 - 1196154*f + 2392311/2.  -3*(f - 1)*(f + 797437)/2
+ Suppose l**2 - 291833*l + 291832 = 0. What is l?  1, 291832
+ Factor 402*f**3 - 2082363*f**2 + 2696671740*f - 20124300.  3*(f -
+  2590)**2*(134*f - 1)
+ Find i, given that 3*i**2 + 237171*i + 474330 = 0.  -79055, -2
+ Find g such that 2*g**3 + 2980*g**2 + 20762*g = 0.  -1483, -7, 0
+W0116 15:18:40.912555 140704436800320 generate.py:168] Dropped 5 examples
+interpolate/algebra__polynomial_roots_composed
+ Let b(l) = -8*l**2 - 536*l + 416. Let o(x) = 7*x**2 + 504*x - 415. Let f(j) =
+  3*b(j) + 4*o(j). Let f(a) = 0. Calculate a.  -103, 1
+ Solve 709*b + 23 - 46*b + 129*b + 15479*b**4 + 17 - 5124*b**3 - 14597*b**4 +
+  3410*b**2 = 0 for b.  -2/21, 1, 5
+ Let y = 19678 - 19675. Factor f**4 + 1/5*f**2 + 2/5*f - 8/5*f**y + 0.
+  f*(f - 1)**2*(5*f + 2)/5
+ Suppose -3*d = -20 + 8. Suppose 10*l = 11*l - d. Factor 4*o**l - 3*o + 4*o -
+  12*o**2 - 9*o.  4*o*(o - 2)*(o + 1)**2
+ Factor -21/4*x**4 + 0*x**2 - 6*x**3 + 0*x + 3/4*x**5 + 0.  3*x**3*(x -
+  8)*(x + 1)/4
+ Determine k so that 22/7 + 2/7*k**2 + 24/7*k = 0.  -11, -1
+ Suppose 0 = -448*w + 450*w - 18. Find z, given that -18*z**2 - 25*z**4 -
+  12*z**3 + 96*z + 22*z**4 + 96 - w*z**3 = 0.  -4, -1, 2
+ What is t in -3*t**3 - 492*t - 286 + 213 - 171*t**2 - 251 = 0?  -54, -2,
+  -1
+ Let u(o) = -o**3 + 23*o**2 - 59*o - 11. Let c be u(20). Suppose c*l = 7*l + 6.
+  Let 0*i + 5/2*i**5 - 15/2*i**2 - 5/2*i**l + 15/2*i**4 + 0 = 0. What is i?
+  -3, -1, 0, 1
+ Let o(k) be the second derivative of k**6/15 + 77*k**5/8 + 4*k**4 - 1178*k + 2.
+  Factor o(d).  d**2*(d + 96)*(4*d + 1)/2
+W0116 15:18:41.212935 140704436800320 generate.py:168] Dropped 5 examples
+interpolate/algebra__sequence_next_term
+ What is next in -35140, -69692, -104244, -138796, -173348?  -207900
+ What is next in -977, -533, 209, 1255, 2611, 4283, 6277, 8599?  11255
+ What is the next term in -3904003, -3904002, -3904001, -3904000, -3903999,
+  -3903998?  -3903997
+ What is the next term in 306672, 613369, 920066, 1226763?  1533460
+ What is the next term in 370, 680, 978, 1258, 1514, 1740, 1930?  2078
+ What is next in -816237, -1632411, -2448595, -3264795, -4081017, -4897267?
+  -5713551
+ What is the next term in 484, 1127, 2130, 3673, 5936?  9099
+ What is next in 274, 1031, 1830, 2671?  3554
+ What comes next: 1006518, 2013039, 3019560, 4026081?  5032602
+ What is next in 37295313, 37295314, 37295315, 37295316, 37295317, 37295318?
+  37295319
+interpolate/algebra__sequence_nth_term
+ What is the d'th term of -1404, -2709, -3906, -4995, -5976?  54*d**2 -
+  1467*d + 9
+ What is the c'th term of -1175998, -2352004, -3528010, -4704016, -5880022?
+  8 - 1176006*c
+ What is the d'th term of -309, -236, -157, -72?  3*d**2 + 64*d - 376
+ What is the w'th term of -30487, -30398, -30247, -30034, -29759?  31*w**2
+  - 4*w - 30514
+ What is the d'th term of 9769, 10390, 12079, 15370, 20797, 28894, 40195, 55234?
+  89*d**3 - 2*d + 9682
+ What is the p'th term of 6479, 12977, 19463, 25925, 32351, 38729, 45047?
+  -2*p**3 + 6*p**2 + 6494*p - 19
+ What is the s'th term of -959, -863, -715, -515?  26*s**2 + 18*s -
+  1003
+ What is the s'th term of 3397534, 3397536, 3397538?  2*s + 3397532
+ What is the s'th term of -1908180, -3816359, -5724538?  -1908179*s - 1
+ What is the d'th term of 4149011, 4149014, 4149017, 4149020, 4149023?  3*d
+  + 4149008
+interpolate/arithmetic__add_or_sub
+ What is -4022098.0824 take away 0.3?  -4022098.3824
+ Work out -3360966415 + 3.  -3360966412
+ What is -48911021216 minus -1?  -48911021215
+ What is 0.7846 minus 3.638555?  -2.853955
+ Put together -0.136 and 12550.21575.  12550.07975
+ What is the distance between -36 and 1147699220?  1147699256
+ What is -553.632 - -101.012?  -452.62
+ Calculate -5 + 0.309323748.  -4.690676252
+ What is the distance between 5 and -13979859733?  13979859738
+ 684207148 + -59  684207089
+interpolate/arithmetic__add_or_sub_in_base
+ In base 11, what is 14180 - -346?  14516
+ In base 12, what is -56421 + -76?  -56497
+ In base 2, what is 1011000110000101000 + -11110?  1011000110000001010
+ In base 3, what is 112010120 + -10012?  112000101
+ In base 14, what is -c201 - 61?  -c262
+ In base 16, what is -892ab - 3?  -892ae
+ In base 13, what is 135c4 - b?  135b6
+ In base 13, what is 0 - bc88a3?  -bc88a3
+ In base 9, what is -68400 - -4?  -68385
+ In base 11, what is 32 + -88442?  -88410
+interpolate/arithmetic__add_sub_multiple
+ Evaluate 5 - (-16 + -1 - (25 + (-38 - -14)) - 0).  23
+ What is the value of -42 - ((-4 - 11) + 17) - (-3 + -10 - -4)?  -35
+ Evaluate 1 + (0 - (7 + -4)) + (37 - -1).  36
+ 15 + -15 - (33 - 2)  -31
+ Calculate -6 - ((-1 - -1) + (12 - 0 - (389 + -330))).  41
+ What is the value of 5 - ((114 - 119) + (2 + (1 - 1) - 3))?  11
+ -30 - ((-41 + 19 - -57) + -18)  -47
+ Evaluate 3 - 24 - (23 + -12 - 24).  -8
+ What is the value of -12 - ((-77 - -75 - (1 + -3)) + 0)?  -12
+ Evaluate (593 - 579) + 3 + (2 - 0).  19
+interpolate/arithmetic__div
+ What is 837190 divided by 418595?  2
+ 1 divided by 874577  1/874577
+ What is -7170174 divided by 9?  -796686
+ -1 divided by 2656642  -1/2656642
+ Divide -999 by -1628.  27/44
+ What is -9 divided by -387856?  9/387856
+ 7191471 divided by -1  -7191471
+ Divide -11900130 by -1190013.  10
+ Divide -367698 by 22.  -183849/11
+ What is -84497 divided by -142?  84497/142
+interpolate/arithmetic__mixed
+ What is the value of (-13)/2 + (35 - 1365/78)?  11
+ Evaluate ((-4697)/2013)/(35/(-645)).  43
+ ((-244)/(-2562))/((-5)/10 + 2/7)  -4/9
+ What is (5/(50/12))/(460*(-132)/(-8800))?  4/23
+ What is the value of (20/8)/(14/(-144) + (-62)/(-279))?  20
+ -41 - (-36)/6480*7375  -1/36
+ What is the value of (-2178)/180 - (-3 + -10 + 4 + -4)?  9/10
+ Calculate (1617/308)/((-3)/24).  -42
+ What is the value of ((0 - (-4 + 5))*31 - -8)/((-15)/30)?  46
+ ((-29)/2378*-82)/(32/33 - 1)  -33
+interpolate/arithmetic__mul
+ 1.8*7041.04  12673.872
+ Work out -1.13 * -281.24.  317.8012
+ Calculate -1*42.087.  -42.087
+ 2*-33.08935  -66.1787
+ Work out 0.5 * 646445.  323222.5
+ -25 * -28322  708050
+ Product of 56.2 and -562.2.  -31595.64
+ Work out 213 * 13395.  2853135
+ Work out -0.144 * -5.6519.  0.8138736
+ Work out -1513 * -353.9.  535450.7
+interpolate/arithmetic__mul_div_multiple
+ (-24)/(-22)*(-5665)/7210  -6/7
+ What is the value of ((162/135)/((-21)/(-5)))/(-1)?  -2/7
+ What is the value of ((-3216)/1876)/(((-2)/(-2))/1)*7?  -12
+ Calculate (-9)/18*(1*1*8/(-56))/4.  1/56
+ Calculate (-3)/(-33)*1368/19*5/(-20).  -18/11
+ Evaluate (-45)/(((-399)/38)/(-3)*(-3)/(-7)).  -30
+ 10/95*(-279)/186  -3/19
+ Evaluate (-21)/(-406)*(-232)/522.  -2/87
+ ((-13167)/99)/((-57)/21)  49
+ (((-6)/24)/((-12)/48))/(-5)  -1/5
+interpolate/arithmetic__nearest_integer_root
+ What is the eighth root of 64350435 to the nearest integer?  9
+ What is the square root of 73578925 to the nearest integer?  8578
+ What is 29564722 to the power of 1/5, to the nearest integer?  31
+ What is 20569135 to the power of 1/3, to the nearest integer?  274
+ What is the square root of 66525536 to the nearest integer?  8156
+ What is 43145439 to the power of 1/3, to the nearest integer?  351
+ What is 81241123 to the power of 1/2, to the nearest integer?  9013
+ What is the third root of 49741940 to the nearest integer?  368
+ What is 5997118 to the power of 1/6, to the nearest integer?  13
+ What is 36493225 to the power of 1/4, to the nearest integer?  78
+interpolate/arithmetic__simplify_surd
+ Simplify (((sqrt(24) + sqrt(96)*-4)/sqrt(2))**2 + (-5 + 1 + sqrt(3))*-3*-3)*-6.
+  -3312 - 54*sqrt(3)
+ Simplify (sqrt(17) - sqrt(68)*-2) + sqrt(102)/(sqrt(36)/sqrt(6)) -
+  (1*sqrt(68)*-4 - ((1 + sqrt(68))*-4 + sqrt(68))).  -4 + 8*sqrt(17)
+ Simplify (4*(-5*(1 + sqrt(162)) + sqrt(162))**2 - -1*((sqrt(162) + 0)*1)**2) +
+  2 + 0.  1440*sqrt(2) + 10632
+ Simplify (-4*(-1*sqrt(2057) - sqrt(2057))*-1)**2 - (-2 + sqrt(68) + 0 +
+  sqrt(68) + sqrt(68))*-3.  18*sqrt(17) + 131642
+ Simplify 5*(4*1*sqrt(24) - 2*sqrt(24)*-1)/(sqrt(88)/(sqrt(11) +
+  (sqrt(33)/sqrt(3) - sqrt(11))*-3)).  30*sqrt(3)
+ Simplify (4*((sqrt(98) + sqrt(98)*1 - sqrt(98)) + sqrt(98)) + (sqrt(98) -
+  -3*(-1 + sqrt(98))))**2 - ((sqrt(72) + sqrt(72)*-1)/(4*sqrt(27)/sqrt(3)))**2.
+  14121 - 504*sqrt(2)
+ Simplify (2*(sqrt(637) + (-1 + sqrt(637))**2) + sqrt(637))*2 - (-1*(sqrt(91)*-1
+  - sqrt(91)))/(sqrt(21)/sqrt(48)).  2552 - 22*sqrt(13)
+ Simplify (-2 + -1 + 0 + 5*(sqrt(2) - sqrt(4)/sqrt(2)) + -2 + -1*sqrt(242) +
+  sqrt(242) + 3)**2.  4
+ Simplify (((sqrt(135) + (sqrt(135) + (sqrt(135) - 2*sqrt(135)) + sqrt(135))*6 +
+  sqrt(135))/(-1*sqrt(243)))/((-6*sqrt(441)*2 - sqrt(441))*1))**2.
+  320/670761
+ Simplify (3 + (3 + sqrt(700)*-2 - sqrt(700) - sqrt(700)) + -3)**2*1*3 + -4.
+  33623 - 720*sqrt(7)
+W0116 15:18:41.651731 140704436800320 generate.py:168] Dropped 1 examples
+interpolate/calculus__differentiate
+ Find the second derivative of 6290476*k**2*y**2 - 25*k*y**2 - 7*k*y - 124*k -
+  y**2 - 23*y wrt k.  12580952*y**2
+ Find the third derivative of -164197*k**2*r**3 + 19834*k**2*r**2 + k*r**4 +
+  201*r**2 wrt r.  -985182*k**2 + 24*k*r
+ What is the second derivative of 66*s**3 - 2194*s**2 - 6512558*s wrt s?
+  396*s - 4388
+ Find the second derivative of 1816*j**3 - 1388*j**2*r + 1096*j*r + 129*j wrt j.
+  10896*j - 2776*r
+ What is the second derivative of 3*p**4*q**2 + 904037*p**2*q**2 - 18*p*q**2 +
+  4*p*q - 789*p + 2*q**2 wrt p?  36*p**2*q**2 + 1808074*q**2
+ Find the third derivative of -15213455*u**3*w - 196609*u**2*w - 5*u**2 wrt u.
+  -91280730*w
+ What is the first derivative of -9051*u**4 + u**2 - 156*u + 8237634?
+  -36204*u**3 + 2*u - 156
+ What is the third derivative of 15829971*m**3 + 14112375*m**2 wrt m?
+  94979826
+ Find the second derivative of 2994307*j**2 + 12115878*j.  5988614
+ What is the third derivative of -16396201*z**3 + 15858261*z**2?
+  -98377206
+W0116 15:18:42.538792 140704436800320 generate.py:168] Dropped 21 examples
+interpolate/calculus__differentiate_composed
+ Find the second derivative of 47*b + 1100*b**2 + 1333*b + 4 - 4 - 242*b wrt b.
+  2200
+ Let q(w) = -w**3 - 8*w**2 - 11*w - 10. Let d = 12 - 19. Let j be q(d). What is
+  the first derivative of -2 + j*t - 5 - 1 + 0 wrt t?  18
+ Let m(n) = 5*n**2 - 5*n**2 - 6*n + 4*n**2 + n - 27. Let o(b) = b**2 - b + 2.
+  Let w(j) = -m(j) + 6*o(j). Differentiate w(u) wrt u.  4*u - 1
+ Let c(v) = -922*v**3 + 4*v**2 - 135*v - 4. Let t(x) = -928*x**3 + 5*x**2 -
+  134*x - 6. Let b(q) = -5*c(q) + 4*t(q). Find the second derivative of b(n) wrt
+  n.  5388*n
+ What is the first derivative of 182*y - 40*y - 326 - 755 wrt y?  142
+ Let w(d) be the second derivative of 67*d**6/15 - d**3/3 + 454*d**2 - 892*d.
+  What is the derivative of w(p) wrt p?  536*p**3 - 2
+ Let r = -109 - -187. Find the third derivative of -20*b**2 + 14*b**2 - r*b**6 -
+  55*b**2 wrt b.  -9360*b**3
+ Let f(h) be the second derivative of -1483*h**3/6 + 299*h**2 - 273*h. Find the
+  first derivative of f(q) wrt q.  -1483
+ Differentiate -142 - 472 + 1125*q**2 - 73*q**2 wrt q.  2104*q
+ What is the third derivative of -5*g**5 - 2*g**2 + 343362*g**4 - 3*g**5 -
+  343402*g**4 + 319*g wrt g?  -480*g**2 - 960*g
+W0116 15:18:42.723805 140704436800320 generate.py:168] Dropped 12 examples
+interpolate/comparison__closest
+ What is the nearest to -1 in -2/3, 304, -0.3, 0, 1/10?  -2/3
+ What is the nearest to -1.3 in -3/22, 0, 8, -20, -0.4?  -0.4
+ Which is the nearest to 2?  (a) 1/4  (b) 5/2  (c) 153  (d) -2  (e) 1/3
+  b
+ What is the closest to 0 in 1/3, 0, 23, 1, 3026?  0
+ Which is the closest to -0.2?  (a) -14/5  (b) 0  (c) -27  (d) -13  (e) 5
+  b
+ What is the nearest to -1/4 in 0.13413, 7, 44?  0.13413
+ Which is the nearest to -2?  (a) -0.11  (b) -4  (c) -2  (d) 6/287  (e) 1
+  c
+ What is the nearest to 2 in -0.09, 8, -0.001, 6.2?  -0.001
+ Which is the nearest to -1?  (a) 2/9  (b) -64006  (c) 3.1  (d) -2  d
+ What is the closest to 2 in 4, -187373, 0.2?  0.2
+interpolate/comparison__closest_composed
+ Let h = -0.064 + 0.064. Let g = -442 + 438. Let i = 0.09 - 5.09. Which is the
+  nearest to 1/4?  (a) i  (b) g  (c) h  c
+ Let r = -16.785 - 0.115. Let x = r + 16.5. What is the closest to 1.4 in 2/5,
+  1/11, x?  2/5
+ Let t be (0 + 0)*((-560)/(-100))/(-28). Which is the closest to -52/5?  (a)
+  -2/9  (b) 2  (c) t  a
+ Let m = 0.2 - 0.2. Let j = -112.48 + 111. Let l = j + 1.28. Which is the
+  nearest to m?  (a) l  (b) -1  (c) 0.3  a
+ Let k be (1*36/(-42))/(7/49). Suppose -4*y + 3 = 7, 0 = 4*z - y + 19. Which is
+  the nearest to 4?  (a) 2  (b) k  (c) z  a
+ Let j = -70.075 + 70. Let h = 4.075 + j. Which is the closest to -0.01?  (a)
+  2/7  (b) h  (c) -2/5  a
+ Let l = 1.2 - 0.2. Let j = 361 + -334.2. Let w = -23.8 + j. What is the nearest
+  to l in 0.4, w, 1/2?  1/2
+ Suppose 203*y = 208*y - 10. Which is the nearest to y?  (a) -1  (b) 1  (c) -0.2
+  (d) 8  b
+ Let m = 0.321 + 157.679. Let w = 158 - m. Which is the nearest to w?  (a) 2
+  (b) 3  (c) -5/8  c
+ Let r = 8 - 8. Suppose -2*u = f - 0*f + 5, -f - 3*u - 8 = r. Suppose 3*a - t +
+  4 = 3*t, 4*a + 20 = -2*t. What is the nearest to -0.1 in a, 9, f?  f
+interpolate/comparison__kth_biggest
+ Which is the third smallest value?  (a) 1545/11  (b) 1  (c) -1  a
+ What is the second biggest value in -4, 19293, 0.1?  0.1
+ What is the smallest value in 1/6, 0.02, 17/54?  0.02
+ What is the third biggest value in -4/7, 13, 5, -433, -3, 0.2, 2/7?
+  2/7
+ Which is the third smallest value?  (a) -1/152  (b) -5  (c) -0.73  (d) -4
+  c
+ Which is the biggest value?  (a) 0.07  (b) -3529.6  (c) 5  c
+ What is the second biggest value in 5, -10, 106788?  5
+ What is the fifth smallest value in -0.4, 379499, 0, 2/11, 3, 1/4?  3
+ What is the biggest value in -7.8, 204.76, 1/6, 5?  204.76
+ What is the fifth biggest value in 2/5, 3, -2/5, -2/3, -5, -1/1032, 2/9?
+  -2/5
+interpolate/comparison__kth_biggest_composed
+ Let n = 26.32 - 25.32. Which is the fifth smallest value?  (a) 0.4  (b) 4  (c)
+  n  (d) 3/13  (e) 5  e
+ Let d = -12 - -29. Let l = d - 17.1. Let q = -24 - -28. What is the second
+  biggest value in q, -1/4, -4, l?  l
+ Let y(p) = -2*p**2 + 41*p + 4. Let o be y(20). Let n be 7/56*o/9. Let s be
+  (-4)/6 - 20/(-15). What is the second smallest value in n, s, -1, 1/2?
+  n
+ Let v = 17/30057 + -5310421/18334770. Let f = v - 2/183. Which is the biggest
+  value?  (a) 2/23  (b) -4  (c) f  a
+ Let t = 153/290 + 21/290. What is the second smallest value in -0.3, -3, 0, t,
+  3?  -0.3
+ Let v = 1 - -1. Let c be v/(-4) + (-5)/(-18). Let q(l) = 31*l - 27. Let s be
+  q(1). What is the second smallest value in -5, c, s?  c
+ Let l = 3072 - 2780. Which is the biggest value?  (a) 5  (b) -3  (c) l
+  c
+ Let q = 1916 + -1923. Which is the second smallest value?  (a) -2  (b) -3/4
+  (c) -1  (d) q  (e) -3  e
+ Let c be ((-6)/(-15))/((-1)/910). Let a = c - -360. Let g = 1 - 0. What is the
+  smallest value in a, g, -19?  -19
+ Let i = 3263 - 3265. What is the second smallest value in 2/15, -350/9, i?
+  i
+interpolate/comparison__pair
+ Which is smaller: 25405 or 25150?  25150
+ Is -5380279 at least as big as -5380279?  True
+ Is 3468367/10 at most as big as 346837?  True
+ Which is greater: -2/3 or 661934/15?  661934/15
+ Do -10 and -62713 have the same value?  False
+ Are -418069 and -418086 nonequal?  True
+ Which is smaller: 1079 or -9192?  -9192
+ Is -7451855 at least -29807425/4?  True
+ Is -2554457/8 <= -319306?  True
+ Which is greater: -72093 or -504650/7?  -504650/7
+interpolate/comparison__pair_composed
+ Suppose 6 = -3*o, 4*o = -w + 5*o + 2. Let k = 0 + 59. Let p = -28 + k. Is w
+  less than p?  True
+ Let b be (-540)/14 - ((-82)/(-28) - (-40)/(-16)). Are b and -1 nonequal?
+  True
+ Let y be ((-74)/72 - -1)*-2. Let k = 49940 + -4494443/90. Let z = y + k. Is 1 >
+  z?  False
+ Let k(t) = t**2 + 13*t - 5. Let b be k(-14). Let q = 30 - b. Let m be 1 - (1 +
+  (-24)/q). Which is greater: m or 1?  m
+ Let f = 145 - 175. Let c(p) = p**3 + 31*p**2 + 29*p - 38. Let d be c(f). Is
+  -2/9 less than or equal to d?  False
+ Let u be ((-35)/42)/(176795/(-76)). Which is smaller: 0 or u?  0
+ Suppose -5*w = 2*u + 40 - 7, 0 = 5*w + 25. Let v be ((-21)/5 - u) +
+  (-47)/(-25). Which is smaller: 2 or v?  v
+ Let t = -4231 + 4189. Is -71 smaller than t?  True
+ Let m(h) = -7*h**3 - 2*h**2 - 72*h + 221. Let j be m(3). Is -203 <= j?
+  True
+ Let k = 4404 - 3629. Is k > 777?  False
+interpolate/comparison__sort
+ Sort -0.3, 4/3, -12, -15/79 in ascending order.  -12, -0.3, -15/79,
+  4/3
+ Sort 166/7, -29, -3.2, -1, -1/3, -4 in decreasing order.  166/7, -1/3, -1,
+  -3.2, -4, -29
+ Sort -4, -20, 5, 156 in decreasing order.  156, 5, -4, -20
+ Sort 2/7, 0.3, 1/4, 0.2, 3, 0.3451 in descending order.  3, 0.3451, 0.3,
+  2/7, 1/4, 0.2
+ Sort -2, -57, 1, 0, -353, -1 in ascending order.  -353, -57, -2, -1, 0,
+  1
+ Put 237, 2, -1038 in descending order.  237, 2, -1038
+ Put 4, 852408, -1 in decreasing order.  852408, 4, -1
+ Put -2/13, 51, 50, 0.9 in ascending order.  -2/13, 0.9, 50, 51
+ Put 16, 2297, 5, -3 in decreasing order.  2297, 16, 5, -3
+ Sort 5, 3, -1, -3, -10, 23, 25 in descending order.  25, 23, 5, 3, -1, -3,
+  -10
+interpolate/comparison__sort_composed
+ Suppose 5*k + 10 = 2*d, 2 + 3 = 3*k + d. Suppose 3*u + 10 = -4*o - 6, 5*u + 16
+  = 4*o. Let g be (-80)/35 - u/14. Sort k, 2, g in descending order.  2, k,
+  g
+ Suppose 9*l = 2*l - 63. Let o be 0/(18/4 + l/6). Sort o, 26, -2 in descending
+  order.  26, o, -2
+ Let z = -1937/2728 + 7/248. Let m = z - -1/2. Put 0.5, m, -4 in increasing
+  order.  -4, m, 0.5
+ Let m = 8 - 10. Let u be (-6)/21 + (3792/(-7) - -2). Let r be u/2625 - m/7. Put
+  2/7, r, 0.1, -0.13 in descending order.  2/7, 0.1, r, -0.13
+ Suppose i = -i + 10. Let h = 3540/13 - 31834/117. Put i, h, -2/11 in ascending
+  order.  -2/11, h, i
+ Let y = 0.74 - -4.26. Sort 66, 1, y, 0.2 in descending order.  66, y, 1,
+  0.2
+ Let q = -17524 - -17524.2. Let v = 0.1 + -0.3. Sort q, v, -0.9 in decreasing
+  order.  q, v, -0.9
+ Let m(z) = -3*z**2 + 51*z - 54. Let c be m(1). Sort -5, c, -23, 2 in increasing
+  order.  -23, c, -5, 2
+ Let w be 11 + (3 + -4 - 3). Let q = 25 + -23. Suppose 0 = -q*c - w*c - 27. Put
+  c, 5, 0, 1 in decreasing order.  5, 1, 0, c
+ Let s = 242.3 - 264. Let d = s + 22. Put -3, d, -4, -1/3 in ascending order.
+  -4, -3, -1/3, d
+interpolate/measurement__conversion
+ How many centimeters are there in 2983.112 meters?  298311.2
+ How many months are there in seven fifths of a century?  1680
+ What is 38206.4l in millilitres?  38206400
+ What is 9.397965 litres in millilitres?  9397.965
+ Convert 6.483088 hours to seconds.  23339.1168
+ How many seconds are there in 497.7184 minutes?  29863.104
+ Convert 4278642.3 nanoseconds to hours.  0.00000118851175
+ What is 0.7860459cm in meters?  0.007860459
+ What is 1/25 of a minute in milliseconds?  2400
+ How many kilometers are there in 512.3629 nanometers?
+  0.0000000005123629
+interpolate/measurement__time
+ What is 287 minutes after 10:09 PM?  2:56 AM
+ What is 28 minutes after 4:40 AM?  5:08 AM
+ What is 124 minutes before 2:31 AM?  12:27 AM
+ What is 106 minutes before 11:57 AM?  10:11 AM
+ How many minutes are there between 4:07 AM and 7:39 AM?  212
+ How many minutes are there between 2:41 AM and 8:27 AM?  346
+ What is 506 minutes before 6:20 AM?  9:54 PM
+ What is 437 minutes after 10:49 AM?  6:06 PM
+ How many minutes are there between 2:36 AM and 6:37 AM?  241
+ How many minutes are there between 11:06 AM and 12:19 PM?  73
+interpolate/numbers__base_conversion
+ What is 662264 (base 7) in base 13?  40ab1
+ 12aa (base 16) to base 10  4778
+ Convert -1ff5e (base 16) to base 15.  -28bc5
+ What is -21312113 (base 4) in base 3?  -2001100012
+ Convert -23234 (base 6) to base 5.  -101314
+ What is 659 (base 16) in base 8?  3131
+ 1200202220 (base 3) to base 12  17389
+ 100759 (base 10) to base 9  163184
+ 178147 (base 10) to base 14  48ccb
+ Convert ca23 (base 16) to base 4.  30220203
+interpolate/numbers__div_remainder
+ What is the remainder when 785300 is divided by 110?  10
+ Calculate the remainder when 43073 is divided by 1953.  107
+ What is the remainder when 2566071 is divided by 162?  153
+ Calculate the remainder when 53016 is divided by 25.  16
+ What is the remainder when 189813 is divided by 21086?  39
+ Calculate the remainder when 622170 is divided by 3207.  12
+ Calculate the remainder when 1451880 is divided by 104.  40
+ Calculate the remainder when 88610 is divided by 29518.  56
+ Calculate the remainder when 10060107 is divided by 1091.  1087
+ Calculate the remainder when 14393 is divided by 5701.  2991
+interpolate/numbers__div_remainder_composed
+ Calculate the remainder when 5/1 + (-100 - -111) is divided by 10.  6
+ Let p = -2861 + 2883. Calculate the remainder when 474 is divided by p.
+  12
+ Suppose -129*l + 11132 = -37*l. Calculate the remainder when 1449 is divided by
+  l.  118
+ Let r be (-2 - -12)*(-20)/(-40). Suppose 33 = 2*m + v, r*v - 15 = -0. What is
+  the remainder when (-2)/6 + 152/6 is divided by m?  10
+ Let u(r) = -12*r - 4. Let h be u(3). Let l = 29 - h. Let n = 130 - l. Calculate
+  the remainder when n is divided by 21.  19
+ Suppose -2360*v = -2376*v + 144. Calculate the remainder when 333 is divided by
+  v.  0
+ Let x be ((-30)/25)/(1/5). Let q be (184/(-5))/((-74)/185). Let c = q + x.
+  Calculate the remainder when c is divided by 22.  20
+ Suppose -224*v - 2*l + 270 = -221*v, 5*l - 279 = -3*v. Calculate the remainder
+  when v is divided by 17.  3
+ Suppose -4*t - k = -t + 549, -5*t - 913 = k. Let d = t - -226. What is the
+  remainder when 129 is divided by d?  41
+ Let f = -9 - 148. Let o = f + 189. What is the remainder when 93 is divided by
+  o?  29
+interpolate/numbers__gcd
+ Calculate the highest common factor of 85839 and 422747.  403
+ Calculate the highest common factor of 11975 and 6875.  25
+ What is the greatest common factor of 846 and 11787318?  846
+ Calculate the greatest common divisor of 17387324 and 4.  4
+ What is the greatest common divisor of 55 and 11336083?  11
+ Calculate the greatest common factor of 362650 and 500.  50
+ What is the highest common factor of 255519 and 493?  29
+ Calculate the highest common divisor of 419655 and 31855.  1385
+ What is the greatest common divisor of 6001320 and 1200?  120
+ What is the highest common factor of 2920106 and 11488?  718
+interpolate/numbers__gcd_composed
+ Let b = 1915 - 1824. Let a(o) = o**3 + 7*o**2 + 3*o - 5. Let p be a(-6). What
+  is the greatest common factor of p and b?  13
+ Let a be -6*(9/4)/((-6)/4). Suppose a*w + 3*w = 360. Let l be 210 - (2 - (2 +
+  0)). What is the greatest common divisor of w and l?  30
+ Let l be (759/(-506))/((-6)/80 + 0). Let m(b) = 4*b**2 - b + 2. Let u be m(2).
+  Calculate the highest common factor of u and l.  4
+ Suppose -9*v - 2334 - 4706 = -25*v. What is the greatest common divisor of v
+  and 176?  88
+ Let h be 10/20 - 712/(-16). What is the greatest common divisor of 1305 and h?
+  45
+ Let k = -129 + 133. Suppose -f + 3*y + 15 = k*y, -2*f + 2*y = -10. Calculate
+  the greatest common factor of f and 45.  5
+ Let l(o) = 14 - 79*o. Let h(w) = 26*w - 5. Let k = 32 - 40. Let n(t) = k*h(t) -
+  3*l(t). Let g be n(3). What is the highest common divisor of g and 34?
+  17
+ Let d(f) = f + 38. Let s be d(-21). Suppose -s*v + 2*v = -210. Calculate the
+  greatest common factor of 63 and v.  7
+ Suppose -23*d + 1190 = -9*d. Let y = -4 + 9. Suppose -166 = -y*x + 4. What is
+  the highest common divisor of x and d?  17
+ Suppose 3*p - 24 = 3*z, 5*p - 3*z - 61 = -13. Let r be -7 - (-5)/(15/p). Let h
+  be (60/(-8) + 4)/(r/30). Calculate the highest common divisor of 7 and h.
+  7
+W0116 15:18:43.089603 140704436800320 generate.py:168] Dropped 1 examples
+interpolate/numbers__is_factor
+ Does 193 divide 44830426?  True
+ Does 659 divide 14899883?  False
+ Is 23 a factor of 15571148?  False
+ Is 78414522 a multiple of 134?  True
+ Is 55 a factor of 1377200?  True
+ Does 320 divide 18785856?  False
+ Is 112 a factor of 714742?  False
+ Does 16 divide 1656779?  False
+ Is 71537620 a multiple of 1804?  True
+ Is 62411919 a multiple of 16?  False
+interpolate/numbers__is_factor_composed
+ Suppose v + 26 = 17. Let n(k) = 2*k**2 + 5*k + 7. Is n(v) a multiple of 31?
+  True
+ Suppose -185*n + 188*n - 7398 = 3*h, 2458 = n + 3*h. Is 176 a factor of n?
+  True
+ Suppose -19 + 7 = -4*y, 0 = -4*m + 2*y + 4918. Does 6 divide m?  False
+ Let u(s) = -20*s**3 + 41*s**2 + 57*s - 47. Let n(c) = 7*c**3 - 14*c**2 - 19*c +
+  16. Let w(p) = 17*n(p) + 6*u(p). Is w(5) a multiple of 16?  True
+ Suppose 3*o + 520 = -10*o. Is 13 a factor of 3 - 7368/o - (-8)/10?
+  False
+ Is 79557/10 - (-5 + 1363/290) a multiple of 36?  True
+ Suppose -207 = j + 2*j. Let s be (1 - 1/7)/(j/(-322)). Is 2 a factor of -4 - (s
+  + 7)/(-1)?  False
+ Suppose -9*x + 30 = x. Suppose -2*y + 3*z = x*y + 9, -3*z + 9 = -2*y. Suppose
+  -9*t + 6*t + 108 = y. Does 12 divide t?  True
+ Let w = -131 - -141. Does 7 divide 20*w*20/16?  False
+ Let p = -96 - -273. Let l(s) = 3*s**2 - 63*s + 42. Let r be l(19). Let a = r +
+  p. Is 21 a factor of a?  True
+interpolate/numbers__is_prime
+ Is 2552030549 a composite number?  False
+ Is 4456610855 a composite number?  True
+ Is 48231847 a prime number?  True
+ Is 491182739 prime?  True
+ Is 54639037 a prime number?  False
+ Is 1461593179 a prime number?  True
+ Is 1077447269 prime?  False
+ Is 225745427 prime?  True
+ Is 30286771 a prime number?  True
+ Is 3192355907 composite?  True
+interpolate/numbers__is_prime_composed
+ Is 135156 + (-4 - 13) + 12 a prime number?  True
+ Let s(x) = x**2 + 2. Let k be s(10). Suppose -2*j = 5*i - 451, 4*j + 3*i - 793
+  = k. Is j composite?  False
+ Let r(s) = 3 + 42*s**2 + 3*s**2 + 0 + 11*s. Let z = 3868 + -3861. Is r(z)
+  composite?  True
+ Suppose 2*l - 2*y = -30, 4*l + 3*y + y = -20. Is 2 - (6 + l + -2915) prime?
+  False
+ Suppose 842666 = 3*c + 5*n, 5*c + 3*n - 890906 - 513564 = 0. Is c a composite
+  number?  False
+ Let r = -16 + 18. Suppose 3*c + 11 = 4*v, r + 5 = 5*v + 3*c. Suppose -2*p = 1 +
+  7, 2*p = -v*a + 1978. Is a prime?  False
+ Is (-7 + (2 - (-1355694)/18))/((-2)/(-3)) a composite number?  False
+ Let n(c) = 7*c + 1. Let i(d) = -d**2 - 2*d + 1. Let s be i(0). Let q be n(s).
+  Suppose -10 = -3*u + q. Is u composite?  True
+ Let p = 7135 - 666. Is p prime?  True
+ Is ((-188819)/(-2) - 1)/((-27)/(-198)*11) a prime number?  True
+interpolate/numbers__lcm
+ Find the common denominator of 89/14030 and 123/11590.  266570
+ What is the common denominator of 3/2 and 79/5005136?  5005136
+ Calculate the common denominator of -145/251196 and 71/209330.
+  1255980
+ What is the least common multiple of 13906 and 6664?  2725576
+ What is the least common multiple of 519593 and 2337?  1558779
+ Calculate the lowest common multiple of 3684956 and 15664.  14739824
+ What is the least common multiple of 20 and 14534526?  145345260
+ What is the smallest common multiple of 1200280 and 90?  10802520
+ What is the lowest common multiple of 1486908 and 1030?  7434540
+ Find the common denominator of 51/788 and 39/178168.  35099096
+interpolate/numbers__lcm_composed
+ Let t = -5 + 4. What is the lowest common multiple of 21/(-5 - -2) + 0 + 16 and
+  (t - -16) + 1 + -2?  126
+ Find the common denominator of ((-4)/10 + 87/225)*(-16440)/(-624) and -31/546.
+  2730
+ Calculate the least common multiple of 18 and (10 - 7)*(17 - -2885).
+  26118
+ Let p = 3255 - 2553. What is the smallest common multiple of 9 and p?
+  702
+ Let p(w) = w**3 - 2*w**2 - 8*w - 5. Let x = 54 + -24. What is the lowest common
+  multiple of p(5) and x?  30
+ Let o be (-468)/(-45) - 8/20. Suppose 0 = -i + h + o, 14 = 3*i + 2*h - 16.
+  Calculate the lowest common multiple of 34 and i.  170
+ Suppose 2*p + 2*p = 2*z + 10, 4*p = 5*z + 25. Find the common denominator of
+  -103/18 and (-6)/(-9) - 210/(-18) - p.  18
+ Let k = -1750 - -2008. What is the smallest common multiple of k and 688?
+  2064
+ Let w = 77/5 - 2289/160. Calculate the common denominator of -91/72 and w.
+  288
+ Suppose 3*a - 5*d = -d + 22, 2*a - 22 = -d. Let c(x) = x**2 - 2*x - 20. What is
+  the lowest common multiple of c(a) and 12?  60
+interpolate/numbers__list_prime_factors
+ What are the prime factors of 89856970?  2, 5, 7, 79, 16249
+ List the prime factors of 77034569.  19, 4054451
+ What are the prime factors of 10903807?  157, 199, 349
+ What are the prime factors of 75749000?  2, 5, 211, 359
+ List the prime factors of 43677290.  2, 5, 509, 8581
+ What are the prime factors of 75076060?  2, 5, 97, 38699
+ List the prime factors of 69953379.  3, 179, 130267
+ List the prime factors of 7293892.  2, 61, 167, 179
+ List the prime factors of 32810854.  2, 16405427
+ What are the prime factors of 29119097?  7, 263, 15817
+interpolate/numbers__list_prime_factors_composed
+ Suppose 0 = 4*m - u + 99, 3*u - 101 = 4*m + 4*u. List the prime factors of
+  ((-102)/(-30))/((-1)/m).  5, 17
+ Suppose 3*t + 3*f = 11250 + 4560, f - 10538 = -2*t. List the prime factors of
+  t.  2, 3, 439
+ Let x be ((-6)/(-5))/(36/6960). Suppose -8 - x = -6*t. What are the prime
+  factors of t?  2, 5
+ Suppose 2*h - 17946 = -5*x, 2*h + 41*x = 43*x + 17960. What are the prime
+  factors of h?  2, 67
+ Suppose -10*c = 9*c - 475. Let u = c - -188. What are the prime factors of u?
+  3, 71
+ Let u(m) = -m**3 + 10*m**2 - m + 12. Let d = -34 + 44. Let p be u(d). List the
+  prime factors of (p - 1)*(46 + 7).  53
+ Let g = 3428 - -973. What are the prime factors of g?  3, 163
+ Suppose -4*u + 24 - 16 = 0. Suppose o - 140 = -u*t, -t - 61 - 79 = -o. What are
+  the prime factors of o?  2, 5, 7
+ Let p(q) be the second derivative of q**5/10 + q**4/12 + q**3/6 - q**2/2 - 4*q.
+  Let s be p(1). Suppose s*i + 26 = 5*i. What are the prime factors of i?
+  13
+ Suppose 5*o + 6*g = 7*g - 2, -5*o = -3*g + 6. Suppose 2*v - 10*v + 1160 = o.
+  What are the prime factors of v?  5, 29
+interpolate/numbers__place_value
+ What is the hundreds digit of 15426817?  8
+ What is the hundreds digit of 44450279?  2
+ What is the hundred thousands digit of 8652431?  6
+ What is the tens digit of 58876295?  9
+ What is the ten millions digit of 86445223?  8
+ What is the thousands digit of 17081834?  1
+ What is the hundreds digit of 63186509?  5
+ What is the millions digit of 85926086?  5
+ What is the hundred thousands digit of 93021682?  0
+ What is the hundreds digit of 28395750?  7
+interpolate/numbers__place_value_composed
+ Let p = 91 - 115. Let o = p - -490. What is the hundreds digit of o?
+  4
+ Suppose 110*z + 50154 = -17*z + 251957. What is the tens digit of z?
+  8
+ Let v = 3219 - 1663. What is the thousands digit of v?  1
+ Suppose -25 = -2*g - 27. What is the tens digit of -125*(-1)/1 + 4*g?
+  2
+ Let a(s) = -9*s**3 - 52*s**2 + 31*s + 147. Let v(p) = -5*p**3 - 26*p**2 + 16*p
+  + 74. Let g(f) = -4*a(f) + 7*v(f). What is the hundreds digit of g(-26)?
+  2
+ Let w be 27*(16/24)/((-4)/150). What is the hundreds digit of (2/(-6) + 0)*w?
+  2
+ Let l(z) = -z**2 - 8*z - 2. Let x be l(-8). What is the hundreds digit of
+  (-6)/x + (-13)/((-117)/1845)?  2
+ Let s(b) = b**2 + 10*b + 12. Suppose 14*k = 10*k - y - 51, -4*k + 3*y - 71 = 0.
+  What is the tens digit of s(k)?  6
+ Let x(w) = 927*w**2 - 12*w - 32. What is the thousands digit of x(-3)?
+  8
+ Let t(p) = 80*p**2 + 0*p + 2*p + 2*p - 74*p**2 + 3. Let r be t(-3). What is the
+  units digit of r + (2 - -1) + -3?  5
+interpolate/numbers__round_number
+ Round -3.0277828 to the nearest integer.  -3
+ Round -0.0004091375 to 7 decimal places.  -0.0004091
+ What is -0.00020325588 rounded to seven decimal places?  -0.0002033
+ What is 714198.34 rounded to the nearest 1000?  714000
+ Round 3.100923 to the nearest integer.  3
+ Round -0.0000497705 to six decimal places.  -0.00005
+ Round -2.6767037 to three dps.  -2.677
+ Round -47.398155 to zero decimal places.  -47
+ Round 167.14304 to the nearest 10.  170
+ Round 4618.7599 to the nearest 1000.  5000
+interpolate/numbers__round_number_composed
+ Let s = 178.00016775 + -178. What is s rounded to 5 dps?  0.00017
+ Let g = -10637.19145 + 0.19145. Let f = g + 10649.027. Let j = f + -12.1. What
+  is j rounded to two dps?  -0.07
+ Suppose -5*j = -k + 2038 + 5674, 4*j = -2*k - 6178. Let d be (16/(-3) - -4) +
+  (-1216330)/(-30). Let x = j + d. Round x to the nearest 10000.  40000
+ Let a = -11178 - -11177.992329. Round a to 4 decimal places.  -0.0077
+ Suppose 5*y = 3*r - 966, -765 = -5*y + 9*y - 5*r. Let t = -170 - y. What is t
+  rounded to the nearest 10?  30
+ Let u = -4497 - -4496.99992696. What is u rounded to five decimal places?
+  -0.00007
+ Let u = -24960 + -24086. Let i be u - -42 - 4/(-2)*2. What is i rounded to the
+  nearest 10000?  -50000
+ Let q = 26.205 - 26.205012907. Round q to seven decimal places.
+  -0.0000129
+ Let c = 5022.16 + -4994. Round c to the nearest ten.  30
+ Let g = 0.273 - -0.057. Let p = g + -0.34. Let a = 0.0099974 + p. Round a to 6
+  dps.  -0.000003
+interpolate/polynomials__add
+ Let s(v) = 7*v + 4. Let i = 426 + -420. Let m(t) = -4 + 3 + t + 4 - 2. Give
+  i*m(j) - s(j).  2 - j
+ Let m(s) = 391*s + 76. Let y(v) = 392*v + 91. Determine -6*m(t) + 5*y(t).
+  -386*t - 1
+ Let m(p) = 15 - 13*p. Let f(g) = 7*g - 8. Let y(k) = -11*f(k) - 6*m(k). Let
+  v(d) = d - 2. Let n be ((-30)/(-8))/1*52/39. Calculate n*v(q) - 6*y(q).
+  2 - q
+ Let m(r) = -r**2. Let y(z) = -2*z**3 - 6*z**2 + 8*z + 35. Give -5*m(o) + y(o).
+  -2*o**3 - o**2 + 8*o + 35
+ Let s(f) = -26*f - 1351. Let i be s(-52). Suppose 0 = -4*h - 3*k + 31, 2*k + 2
+  - 16 = -h. Let w(l) = 4 - 8*l**3. Let g(u) = u**3 - 1. Calculate h*g(d) +
+  i*w(d).  -4*d**3
+ Let q(u) = 6 - 5*u. Let s(m) = 17 - 14*m. Let w(n) = 17*q(n) - 6*s(n). Let g(v)
+  = 389 - 389 - 7*v. What is 5*g(b) - 30*w(b)?  -5*b
+ Let z(j) = -2*j**2 - 7. Let y(a) = -a**2 + a - 6. Let k(d) = y(d) - z(d). Let
+  x(m) = m**3 - 6*m**2 - 5*m - 5. Calculate 15*k(c) + 3*x(c).  3*c**3 -
+  3*c**2
+ Let n(r) = -658*r**2 - 6*r - 3. Let q(i) = -2*i**2 - i. Calculate -n(m) +
+  6*q(m).  646*m**2 + 3
+ Let i(w) = 7295*w**3 - 7307*w**3 - 52*w + 42*w. Let d(y) = 4*y**3 + 3*y.
+  Calculate 20*d(j) + 6*i(j).  8*j**3
+ Let c(i) = 9*i. Let x(l) = l**2 + 51*l + 1. What is 5*c(y) - x(y)?  -y**2
+  - 6*y - 1
+W0116 15:18:43.541753 140704436800320 generate.py:168] Dropped 3 examples
+interpolate/polynomials__coefficient_named
+ Rearrange 0 + 793*g - 402*g - 362*g - 10 + (5 - 3 + 0)*(g + 9*g + 2*g) to q +
+  k*g and give k.  53
+ Rearrange 17 + 68*z**2 - 21*z - 4 - 73*z**2 + 0 to the form l + f*z + s*z**2
+  and give l.  13
+ Rearrange 18523 - 1497*z - 37044 + 18523 to y*z + p and give p.  2
+ Express 11 - 4*k**2 - 28 + 109 - 28 in the form m*k + q*k**2 + j and give q.
+  -4
+ Express -20 + 2*s**4 - 5*s**2 + 68 - 2*s + 33 + 8*s**2 - 17 as w + c*s**3 +
+  b*s**2 + m*s**4 + j*s and give m.  2
+ Express (29730*u + 299 - 14867*u - 14858*u)*(-4*u + 5*u - 3*u) in the form y*u
+  + o*u**2 + m and give m.  0
+ Express -860*n**2 - 224*n**2 - 1137*n**2 in the form p + m*n**2 + r*n and give
+  m.  -2221
+ Express -14 - 2 - 21 + 37 - 667*k as h*k + i and give h.  -667
+ Rearrange ((3*f - 2*f - 2*f)*(2 + 4 - 3) - 78*f - 69*f - 59*f)*(f**2 + f - f)
+  to the form w + r*f + n*f**2 + i*f**3 and give i.  -209
+ Rearrange -99*x - 36*x - 598*x to k + l*x and give l.  -733
+W0116 15:18:43.648490 140704436800320 generate.py:168] Dropped 1 examples
+interpolate/polynomials__collect
+ Collect the terms in -26280*m - 26187*m + 52461*m.  -6*m
+ Collect the terms in -155*o**2 + 16863*o + 960 - 16863*o - 960.
+  -155*o**2
+ Collect the terms in -39917*r + 19959*r + 20001*r + 1.  43*r + 1
+ Collect the terms in -5*j - 2030 - 2019 + 6051 - 2002.  -5*j
+ Collect the terms in 8*z**3 + 102134843 - 102134843.  8*z**3
+ Collect the terms in 516*c + 3*c**2 - 357*c + 234*c + 0*c**2 + 1125*c.
+  3*c**2 + 1518*c
+ Collect the terms in 279204 - 558429 + 279213 - 7*q.  -7*q - 12
+ Collect the terms in 18 + 6311*u + 5 - 30 + 7.  6311*u
+ Collect the terms in -1254 + 853*v**2 + 860*v**2 - 1710*v**2.  3*v**2 -
+  1254
+ Collect the terms in -158*d + 88 + 15*d - 57 - 32.  -143*d - 1
+interpolate/polynomials__compose
+ Let w(y) = y**2 + 12. Let u(r) = 2*r**2 + 32. Let j(a) = 3*u(a) - 8*w(a). Let
+  p(d) = -532*d**2. Give p(j(v)).  -2128*v**4
+ Let s(g) = -2*g. Let x be 289/102 - 6/3. Let j(o) be the second derivative of
+  -10*o - x*o**3 + 0 + 0*o**2. Give j(s(w)).  10*w
+ Let r(b) = -16*b**2. Let m(t) be the third derivative of -t**8/6720 -
+  11*t**5/12 + 55*t**2. Let z(a) be the third derivative of m(a). Give r(z(h)).
+  -144*h**4
+ Let u(a) = 2*a. Let v(r) = -202 - 17 + 2*r**2 - 107 + 13 + 7. Give u(v(l)).
+  4*l**2 - 612
+ Let z(u) = -u**2 - 6*u - 788. Let q(t) = 10*t**2. Determine z(q(s)).
+  -100*s**4 - 60*s**2 - 788
+ Let b(k) = -2*k**2. Let t(a) = -a**2 + 9*a - 16. Let z be t(6). Suppose -3*l -
+  i = 1, 4*l + z*i = 6*l - 2. Let q(o) = 4*o**2 + 5 + l - 5. What is q(b(m))?
+  16*m**4
+ Let h(a) = -434 - 242*a**2 + 146 + 144 + 240*a**2 + 144. Let i(n) be the second
+  derivative of -2*n**4 + n. Calculate i(h(m)).  -96*m**4
+ Let a(o) = -225*o - 24. Let f(p) = 6*p - 25. Determine a(f(d)).  5601 -
+  1350*d
+ Let b be (-4)/(-2) - (3 + -4). Let d(n) = n**2 - 2. Let w(z) = 0*z**2 - 4*z**2
+  + 5 - 2 + 3*z**2. Let o(h) = b*d(h) + 2*w(h). Let x(t) = 8*t**2. Give x(o(r)).
+  8*r**4
+ Let b(s) = 2*s. Let j(g) = 5002816*g**2. What is j(b(h))?
+  20011264*h**2
+W0116 15:18:43.767567 140704436800320 generate.py:168] Dropped 1 examples
+interpolate/polynomials__evaluate
+ Let o(l) = -49*l - 2277. What is o(-42)?  -219
+ Let u(y) = 4*y**2 - 1338*y - 9452. Determine u(-7).  110
+ Let f(v) = 339138 - 1087*v. Give f(312).  -6
+ Let l(d) = d**3 + 25*d**2 + 151*d - 28. Determine l(-12).  32
+ Let v(a) = 1116*a - 2178. Give v(2).  54
+ Let y(g) = g**3 + 145*g**2 - 39482*g + 833. Calculate y(139).  -1
+ Let s(q) = -q**3 + 27*q**2 + 2293*q + 906. Give s(-36).  6
+ Let m(t) = -71*t**2 + 3054*t - 98. Determine m(43).  -55
+ Let w(b) = b**2 - 2195*b + 15330. Calculate w(7).  14
+ Let x(u) = 894*u**2 - 29508*u + 196. Calculate x(33).  -2
+interpolate/polynomials__evaluate_composed
+ Let d = -84 - -130. Let k(v) = 20 + 26 - 5*v - d. Give k(-1).  5
+ Let a(z) = -z**3 + 50*z**2 + 48*z + 149. Let i be a(51). Let k(h) be the first
+  derivative of -h**3/3 - 4*h**2 - 2*h - 3. What is k(i)?  14
+ Let q(l) = 36*l - 402. Let z be q(11). Let u(d) = -d - 7. Calculate u(z).
+  -1
+ Let w(l) be the third derivative of -5 - 1/12*l**4 - 3*l**2 + 0*l + 0*l**3.
+  Determine w(2).  -4
+ Suppose -x - 15 = 20. Let u = x - -37. Let j be 2/4 + (-17)/u - -3. Let r(z) =
+  2*z - 5. Determine r(j).  -15
+ Let j = 53 - 96. Let a = -45 - j. Let w(k) = k**3 - k + 1. What is w(a)?
+  -5
+ Let c(t) = 211 - t + 2*t**2 + 217 + 5*t**3 + 0*t**2 - 431. Calculate c(-2).
+  -33
+ Let k(l) be the first derivative of l**4/24 - l**3/2 + 3*l**2 + l - 58. Let
+  w(a) be the second derivative of k(a). Give w(-5).  -8
+ Let t(y) be the first derivative of -y**4/4 - 7*y**3/3 + 3*y**2 - 4*y + 707.
+  Suppose 0 = -3*h + 6, 2*l - 6*l - 3*h = 26. Determine t(l).  12
+ Suppose 4*d - 14*d + 70 = 0. Let z(m) = -d - 4 - 32*m + 12*m + 17*m. Calculate
+  z(-6).  7
+interpolate/polynomials__expand
+ Expand -y**4 + y**4 - 2*y**4 + (26 - 6*y - 26)*(-47*y**3 - 189*y**3 -
+  188*y**3).  2542*y**4
+ Expand (a - a + 7*a)*(-1 - 3 + 2) + (-3 + 0 - 1)*(a + 8*a - 8 - 6*a).  32
+  - 26*a
+ Expand (140 - 140 + 636*y)*(-3*y - y + 6*y)*(-y**2 + 0*y**2 + 0*y**2).
+  -1272*y**4
+ Expand (-2*a - 2*a + a)*(-a - 2 + 2) + (-26*a**2 - 39*a**2 + 73*a**2)*(2 - 3 +
+  3).  19*a**2
+ Expand -2 + 2 - 2*t + (-2*t + 4*t - 4*t)*(4 - 5 + 4) + (-1 + 2 + 17 + 2)*(2*t +
+  t - 8*t).  -108*t
+ Expand (-2*x - 6*x - 2*x)*(1 + 3 + 15)*(5 + 0 - 1).  -760*x
+ Expand (-y**5 - 2*y**4 + 2*y**4)*(2 + 3 - 4) + 36*y**2 - 8*y**4 - 5102*y +
+  226*y**5 + 5104*y - 224*y**5.  y**5 - 8*y**4 + 36*y**2 + 2*y
+ Expand (3*l**2 + 1 + 0*l**2 - 2)*(-6 - 14 + 2)*(-28*l + 13*l + 16*l).
+  -54*l**3 + 18*l
+ Expand (3*f**4 + 7*f**2 - 7*f**2)*(3 - 3 - f + f - 3*f + 4*f + (2*f + f -
+  f)*(-3 - 2 + 7) - 3*f + 2 - 2 + 2*f - 1 + 1).  12*f**5
+ Expand (-2 + 2 + 2)*(0 + 0 + 3*d) - 110479 + 110479 - 117*d.  -111*d
+interpolate/polynomials__simplify_power
+ Simplify
+  (h**20*(h*h*h*h**(2/11))/(h**(-2/11)*h))/(h**(1/7)/(h/(h/h**(-1))))**(-16)
+  assuming h is positive.  h**(3130/77)
+ Simplify (t**15)**(-25)*t*t/(t**(-2/5)*t)*t/t**(1/3)*(t/t**(-2))/t**(-2/13)
+  assuming t is positive.  t**(-72107/195)
+ Simplify (((s**4*s*s)/s)/s*s*s**2)**(-
+  3/5)/(((s*s*s**5*s*s*s*s)/(s**3*s*s))/(((s/(s*s**(-
+  1/9)*s))/s)/s*s/(s**(1/6)*s))) assuming s is positive.  s**(-1193/90)
+ Simplify ((a**(-2)/(a*a*((a/(a/((a*a**4)/a)))/a)/a))/((a*a*a**(11/2))/(a*a**(-
+  3))))**(-5/4) assuming a is positive.  a**(155/8)
+ Simplify (p**(-1/2)/(p*p**(2/19)/p))**16/(((p*(p/(p/((p*p**(-
+  1/3)*p)/p)))/p*p*p)/p)/p*p**(1/2))**(-14/5) assuming p is positive.
+  p**(-1829/285)
+ Simplify
+  (t**(-15/4)/((t/(t/(t/(t*t/t**(-3/7)*t)))*t)/(t*t**(-3)/t)))/(t**44)**(-5/19)
+  assuming t is positive.  t**(3329/532)
+ Simplify
+  (h**(1/58)/h**(-5))/(((h*(h**(2/9)*h*h)/h)/(h/(h*h**(2/7))))/h**(11/3))
+  assuming h is positive.  h**(22567/3654)
+ Simplify (((q**4*q**3)**(-6))**(-3/5))**(-21) assuming q is positive.
+  q**(-2646/5)
+ Simplify ((p**6*p**7)/((p/(p*p**(-3/8))*p)/p)**26)**(5/2) assuming p is
+  positive.  p**(65/8)
+ Simplify u/u**(-1/2)*u/(u/(u*u**(2/5)))*((u/u**2)/u)/(u**(-5)*u)*u**10/(u**(-
+  4/3)/(u**(-4)*u)) assuming u is positive.  u**(397/30)
+interpolate/probability__swr_p_level_set
+ Two letters picked without replacement from pphhhhfphhhfrhh. What is prob of
+  picking 1 r and 1 p?  1/35
+ Four letters picked without replacement from {q: 5, g: 4, t: 3, b: 2}. Give
+  prob of picking 2 g and 2 q.  60/1001
+ Calculate prob of picking 1 l and 1 x when two letters picked without
+  replacement from {u: 2, l: 1, k: 6, x: 1}.  1/45
+ Three letters picked without replacement from {g: 2, y: 2, z: 6, f: 5}. What is
+  prob of picking 1 g, 1 z and 1 f?  12/91
+ What is prob of picking 1 d and 2 h when three letters picked without
+  replacement from {i: 4, l: 5, h: 2, d: 5}?  1/112
+ Four letters picked without replacement from szsssssssssssszsssz. What is prob
+  of picking 3 z and 1 s?  4/969
+ What is prob of picking 1 v and 1 s when two letters picked without replacement
+  from {v: 1, m: 4, g: 2, r: 2, s: 2}?  2/55
+ Four letters picked without replacement from lleeellqlqlq. Give prob of picking
+  1 q, 1 l and 2 e.  6/55
+ What is prob of picking 1 q and 3 j when four letters picked without
+  replacement from ffqffqffjffjffffffj?  1/1938
+ Two letters picked without replacement from {e: 4, f: 5, r: 9, o: 1}. Give prob
+  of picking 2 r.  4/19
+interpolate/probability__swr_p_sequence
+ What is prob of sequence qt when two letters picked without replacement from
+  uatffqofff?  1/90
+ What is prob of sequence jpjp when four letters picked without replacement from
+  jpppjpjppppj?  28/495
+ Three letters picked without replacement from {u: 2, m: 2, l: 12}. What is prob
+  of sequence mml?  1/140
+ What is prob of sequence omdp when four letters picked without replacement from
+  {m: 1, n: 1, p: 4, b: 1, o: 1, d: 1}?  1/756
+ Calculate prob of sequence xcxt when four letters picked without replacement
+  from cxxctcwwxxcwxwcxt.  5/952
+ What is prob of sequence jq when two letters picked without replacement from
+  eqvgjr?  1/30
+ Two letters picked without replacement from qxqqooqobqqqjoqbqx. Give prob of
+  sequence bo.  4/153
+ What is prob of sequence wn when two letters picked without replacement from
+  mwnmmn?  1/15
+ Calculate prob of sequence ag when two letters picked without replacement from
+  {a: 4, g: 8, d: 7}.  16/171
+ Four letters picked without replacement from xxxrxxxppxx. Give prob of sequence
+  xpxx.  14/165
+extrapolate/algebra__polynomial_roots_big
+ Factor -3*l**3 + 2442738207*l**2 + 92824055115*l + 881828533881.  -3*(l -
+  814246107)*(l + 19)**2
+ Let -l**5 - 528*l**4 - 82967*l**3 - 3929388*l**2 + 16817364*l - 12804480 = 0.
+  Calculate l.  -288, -130, -114, 1, 3
+ Find w such that 5*w**4 + 85950*w**3 + 126564125*w**2 + 2618102700*w -
+  2744752780 = 0.  -15566, -1603, -22, 1
+ Suppose 221*h**4/8 + 9359*h**3/8 + 30789*h**2/4 - 46963*h - 17248 = 0.
+  Calculate h.  -32, -14, -77/221, 4
+ What is v in -v**5 - 2905348*v**4 - 63917313*v**3 - 409651154*v**2 -
+  546200936*v + 1022674752 = 0?  -2905326, -11, -8, -4, 1
+ What is y in y**4 + 25666*y**3 + 4923600*y**2 + 186283998*y + 1296448335 = 0?
+  -25473, -145, -39, -9
+ Let 4*f**2 + 3265349496*f + 3265349492 = 0. What is f?  -816337373, -1
+ Let -j**4/7 + 14827*j**3/7 + 118021628*j**2/7 - 945121440*j/7 = 0. Calculate j.
+  -5745, 0, 8, 20564
+ Let -v**5/5 + 52981*v**4/5 - 18821857*v**3/5 - 3680449793*v**2/5 +
+  1385326243094*v/5 - 1381627024424/5 = 0. What is v?  -268, 1, 313,
+  52622
+ Factor 2*m**2/7 + 41329356316*m/7 + 213514461686861136482/7.  2*(m +
+  10332339079)**2/7
+W0116 15:18:44.727606 140704436800320 generate.py:168] Dropped 6 examples
+extrapolate/arithmetic__add_or_sub_big
+ Put together -0.974 and 6.367140971742.  5.393140971742
+ What is 32084676983508342 - 0.05?  32084676983508341.95
+ What is 4095451 - -4715091755?  4719187206
+ What is -5306114952817892 plus -21?  -5306114952817913
+ Add together -0.5 and -2719128547.032097769.  -2719128547.532097769
+ Calculate -11117999577 - 48676.  -11118048253
+ -0.0118574+-2317158797  -2317158797.0118574
+ Put together -619961 and 1078680220417.  1078679600456
+ -0.4+-4147062906711861  -4147062906711861.4
+ What is -376108516 + 23.458?  -376108492.542
+extrapolate/arithmetic__add_sub_multiple_longer
+ What is the value of (46 - (-104 - -79) - 26) + (-3 - 3 - (0 + 0 + -2 + 2 -
+  3))?  42
+ Evaluate -6 + -205 + -4 + (7 - -1) + 13 + -9 + 0 + 3 + (0 + -5 - -2).
+  -203
+ What is 25 + -33 + -3 + 26 + -99 - (4 - ((1 - (0 + -4)) + -3))?  -86
+ What is the value of (102 - (4 + -14 - -2 - (-6 + 3))) + 8 + (-7 - -4) + -2 + 0
+  + -2?  108
+ What is (8 + (-4 - (-3 - -3)) - -1) + (80 + (0 - 0) - (-10 + 4 - (21 - 40)))?
+  72
+ Evaluate (150 + -163 + -1 + 4 + 11 + 9 - ((-5 - 7) + 15)) + 186.  193
+ -39 - ((9 - (8 - 11 - 5)) + (1 + (-1 - 15) - (-898 + 893)))  -46
+ Calculate (2 - 1 - (-1 - 1 - -2) - 1) + (18 - (72 - 62) - (-3 + 66 + 11)).
+  -66
+ -1 - 5 - (63 + (-50 - -6) - (-3 + (0 - -19))) - (-2 - (-6 + -29))  -42
+ (0 - 151 - -1 - ((10 - (-3 + 6 + 2)) + -8)) + (41 - (-13 + (3 - -45)))
+  -141
+extrapolate/arithmetic__div_big
+ Divide -14672821450 by 10.  -1467282145
+ Calculate -13395253204 divided by -1213558.  11038
+ Divide -17 by -4397880074.  17/4397880074
+ Divide -34 by -49858713.  34/49858713
+ What is 173188 divided by 1978?  86594/989
+ What is -53652 divided by -30938?  26826/15469
+ Divide 702193509 by -123.  -234064503/41
+ What is 8173962154 divided by 2789?  2930786
+ Divide -181456656 by 8454.  -21464
+ -111502 divided by 19773  -111502/19773
+extrapolate/arithmetic__mixed_longer
+ What is ((-14)/4)/((-6)/(-4) + -1)*(8164 - 8161)/(51/27 - (-4 - -6))?
+  189
+ (-33)/(-100) + (-70)/24*-1*2/7*6/(-20) + 1067*(-31031)/93775  -353
+ Evaluate ((4/(-14))/((-72)/(-126)))/((-3)/(1332/20)*(3306/(-3420) + 4/6)).
+  -37
+ 1188/(-486) + (-4)/(-3) + (-7*5/(-135))/((322/5460)/23)  100
+ (-1 + -1)/(27 - 7 - 14 - 17/(170/72)*(-8)/156*-15)*-18  78
+ Evaluate (4/(-26) - (138032/520 - 8)) + (-18474)/(-15395)*(1/(-12) +
+  6*4/(-96)).  -258
+ What is the value of (-4)/(-2) - ((-25)/(-40) - (6 - (7 + 0))) - (-5 +
+  (-11496)/64)?  185
+ Evaluate (-3*7/42)/(10/(-2960)) + ((-18)/(-21) - 368/560 - (-78)/10).
+  156
+ What is ((-180)/221)/(-3) - 4/(-3)*(759/(-286))/23 - (-251910)/15861?
+  16
+ Evaluate ((-2108)/4092)/(-6 + (-5)/(540/(-1457))*160/360) + (-3 -
+  ((-496)/(-44))/(-4)).  125
+extrapolate/arithmetic__mul_big
+ -0.06591*78322  -5162.20302
+ What is -40461.545 times 162?  -6554770.29
+ What is 745033161 times 23?  17135762703
+ Work out 0.3 * -2767079347.  -830123804.1
+ What is the product of -124998 and -787.38?  98420925.24
+ -120752.26884 * -5  603761.3442
+ Work out 114 * 43583969.  4968572466
+ Calculate 4.7*-222.76013.  -1046.972611
+ 21*-24891964  -522731244
+ Multiply -62712142 and -157.  9845806294
+extrapolate/arithmetic__mul_div_multiple_longer
+ Calculate (5/2)/((-13)/936)*-1*(6/15)/(1/(-13)*25428/(-3260)).  120
+ 2/((-4)/10)*2/(-6)*2916/21060*(-264953)/(-267)*1*(-2)/(-2)  229
+ Calculate ((-73087)/(-1379))/((((-1)/2)/((-5)/10))/(-4)*4/(-10)*(-20)/(-2)).
+  53
+ What is the value of ((8/6)/((-25)/15)*6/48*6)/((249568/352)/(-510480))?
+  432
+ What is 12/(-8*(20/(-18)*((-2)/(-16)*36)/((-132)/22))/(20/(-6)))?  6
+ (63/28*6*-1*350/315*1/1)/((-2)/6)  45
+ What is 18/(-12)*30/3420*-1501*((2/20)/((-2)/24))/(12/(-40))?  79
+ Evaluate (402/18)/(4/6)*24*(-75)/(-40)*54/20250*-50.  -201
+ ((-6)/(-15)*(-25)/(-4))/(11*13/(-5148)*(-4)/120*3*(-30)/(-4))  120
+ What is 3*376/(-12)*-1*14*(418/(-931))/22*7/(-2)?  94
+extrapolate/comparison__closest_more
+ What is the closest to 4 in 3/5, 15, 0, 14, -306, 0.1, 2/15, -4?  3/5
+ Which is the closest to -2/7?  (a) -0.3  (b) 0  (c) 19  (d) 0.22  (e) 1/2  (f)
+  2  (g) -29/3  (h) 0.16  a
+ What is the nearest to -13/3 in 7, 3, -0.04, 12, -3, -69, 79?  -3
+ What is the nearest to 0 in -692, 4, 7, 1, -16, 3, -47/3, 0.5?  0.5
+ What is the nearest to 1/2 in -463, -1, 5, 16, -190, -21, -0.4, 0?  0
+ Which is the nearest to 0.2?  (a) -9  (b) -0.5  (c) 0.93  (d) 98  (e) 911  (f)
+  -0.3  (g) 1/3  g
+ Which is the nearest to 1/27?  (a) -74.7  (b) 0.02  (c) 6  (d) 1/3  (e) -4/7
+  (f) -2  (g) 3  b
+ What is the nearest to 0.3 in -12, -8, -0.4, -2, 3/5, -4, 133/10?  3/5
+ What is the nearest to 1 in -2/3, -0.1, -5, 4/3, 336, -171, 19, 2/5?
+  4/3
+ Which is the closest to 1?  (a) 2  (b) -0.1  (c) 1101  (d) -2/3  (e) 1  (f)
+  2/17  (g) 1.2  (h) -6  e
+extrapolate/comparison__kth_biggest_more
+ What is the seventh smallest value in 2, -3.589, 0.4, -0.1, -2, 5, -136, -0.05,
+  1/8, 4?  0.4
+ Which is the sixth biggest value?  (a) 0.4  (b) 4  (c) -1/5  (d) -3  (e) 1/9
+  (f) 1/2  (g) 1/5  (h) 2/7  (i) 2231023  (j) -1/4  g
+ Which is the second smallest value?  (a) -3  (b) 3/5  (c) 1  (d) -6/437  (e) -1
+  (f) 0.2  (g) 15  (h) -2  (i) -548  a
+ What is the third biggest value in 2/15, -5/2, 473.3, -1, -57, 0.5, -2, -2/9,
+  -0.3, -40.5?  2/15
+ What is the smallest value in -3, 1/7, -1646, -4, -51, 2, -2/9, 0.1, 11, 0.3?
+  -1646
+ What is the fourth biggest value in 4/5, -4, -0.1, -0.0358, 2/7, -0.09, -6, 2,
+  614?  2/7
+ What is the third smallest value in 4, -20, 5, 0.5, -3.2, 3/55, 48, 0.9, 2/11,
+  1?  3/55
+ Which is the sixth biggest value?  (a) 0  (b) -0.5  (c) 0.39  (d) -298  (e)
+  -2/5  (f) -23/2  (g) 6/7  (h) -5  (i) 2/5  b
+ Which is the second biggest value?  (a) -3  (b) 11/6  (c) -2/5  (d) 3  (e) -5
+  (f) 191  (g) 1/16  (h) 1/3  (i) 7/4  (j) 0.02  d
+ Which is the fourth smallest value?  (a) -32/5  (b) 1/7  (c) 2/7  (d) 5  (e)
+  2/3  (f) -3/5  (g) -0.01  (h) 467  (i) -3  (j) 2/23  g
+extrapolate/comparison__sort_more
+ Put 9, 3, -10, 0, 28, -6, 1, 62, 2 in descending order.  62, 28, 9, 3, 2,
+  1, 0, -6, -10
+ Put -1, 4, 16, 2, 17, 7, -2, 3, -7 in ascending order.  -7, -2, -1, 2, 3,
+  4, 7, 16, 17
+ Sort 18, -3, 2, 3, -4, 0, 6, 1, 342 in increasing order.  -4, -3, 0, 1, 2,
+  3, 6, 18, 342
+ Sort 83, 0, -1, 4, 63, 1, -3, -2, 3 in ascending order.  -3, -2, -1, 0, 1,
+  3, 4, 63, 83
+ Sort 5, 0, 3, 14, 1, -24, 2, 6, -26 in decreasing order.  14, 6, 5, 3, 2,
+  1, 0, -24, -26
+ Sort 3, 81, 33, 4, -4, 1, 9, 82, -2 in decreasing order.  82, 81, 33, 9,
+  4, 3, 1, -2, -4
+ Sort 18, 8, -1, 1, 5, 28, -5, 0, -3 in decreasing order.  28, 18, 8, 5, 1,
+  0, -1, -3, -5
+ Sort 6, 81, 0, 7, 1, -4, -5, 2, 12.  -5, -4, 0, 1, 2, 6, 7, 12, 81
+ Sort -1, 511, 0, 1, 3, 8, 9, 17, -4 in ascending order.  -4, -1, 0, 1, 3,
+  8, 9, 17, 511
+ Sort 1, -6, -2, 3, 20, 4, 82, 86, 2 in descending order.  86, 82, 20, 4,
+  3, 2, 1, -2, -6
+W0116 15:18:57.524411 140704436800320 generate.py:168] Dropped 1574 examples
+extrapolate/measurement__conversion
+ What is 3125995.78 millennia in months?  37511949360
+ What is 499689.476cm in nanometers?  4996894760000
+ Convert 23420793.7 millilitres to litres.  23420.7937
+ How many milligrams are there in 58.8003495t?  58800349500
+ Convert 2.98732567 litres to millilitres.  2987.32567
+ How many milligrams are there in 528.020105 tonnes?  528020105000
+ What is 475.673393 years in centuries?  4.75673393
+ Convert 0.823416396nm to millimeters.  0.000000823416396
+ Convert 47046.8522kg to milligrams.  47046852200
+ How many centimeters are there in 69.885424mm?  6.9885424
+extrapolate/numbers__place_value_big
+ What is the ten billions digit of 875961765319?  7
+ What is the hundreds digit of 767252720141?  1
+ What is the units digit of 248666170606?  6
+ What is the hundred thousands digit of 247151946365?  9
+ What is the tens digit of 71464557863?  6
+ What is the hundred thousands digit of 807595044296?  0
+ What is the units digit of 863751318187?  7
+ What is the millions digit of 963586593896?  6
+ What is the billions digit of 355171060910?  5
+ What is the millions digit of 451647971130?  7
+extrapolate/numbers__round_number_big
+ Round -2063524197.3 to the nearest one million.  -2064000000
+ Round 0.001263103364744 to 4 dps.  0.0013
+ What is -16.46762585521 rounded to two dps?  -16.47
+ What is -2861460945.34 rounded to the nearest one million?
+  -2861000000
+ What is 332913188.1187 rounded to the nearest ten thousand?  332910000
+ Round -1155.043052618 to 0 decimal places.  -1155
+ What is -0.0000964515377368 rounded to 7 dps?  -0.0000965
+ Round -4.32257009338 to five decimal places.  -4.32257
+ Round 198642.6423745 to the nearest one hundred.  198600
+ What is -2.86238610891 rounded to four dps?  -2.8624
+extrapolate/probability__swr_p_level_set_more_samples
+ Calculate prob of picking 2 z and 3 s when five letters picked without
+  replacement from szssszssszss.  7/22
+ What is prob of picking 1 r and 4 u when five letters picked without
+  replacement from {u: 7, r: 1}?  5/8
+ Five letters picked without replacement from ccjjcccccccjj. What is prob of
+  picking 5 c?  14/143
+ Five letters picked without replacement from {f: 2, r: 1, i: 5, e: 2, h: 1, s:
+  1}. Give prob of picking 1 h, 3 i and 1 e.  5/198
+ Five letters picked without replacement from xwkxkvcuxvcx. What is prob of
+  picking 3 x, 1 k and 1 u?  1/99
+ Five letters picked without replacement from {l: 5, u: 1, w: 2}. What is prob
+  of picking 1 u, 3 l and 1 w?  5/14
+ Calculate prob of picking 5 f when five letters picked without replacement from
+  ffdffdffffdfdfdddddf.  77/2584
+ Five letters picked without replacement from uhqhquuhuuhhh. Give prob of
+  picking 4 h and 1 q.  10/429
+ What is prob of picking 2 l and 3 b when five letters picked without
+  replacement from lxbxbxlb?  1/56
+ Five letters picked without replacement from upvuuuppuuvuvuuuppp. What is prob
+  of picking 2 v, 1 p and 2 u?  45/646
+extrapolate/probability__swr_p_sequence_more_samples
+ Five letters picked without replacement from sooosssooo. Give prob of sequence
+  oooss.  1/21
+ Five letters picked without replacement from eyeeee. Give prob of sequence
+  eeyee.  1/6
+ Five letters picked without replacement from {v: 1, p: 1, r: 2, x: 1, c: 3}.
+  Give prob of sequence cvxxx.  0
+ Five letters picked without replacement from ukukuuulluluukuu. Give prob of
+  sequence klkll.  1/14560
+ Calculate prob of sequence jqqyj when five letters picked without replacement
+  from {q: 6, j: 8, y: 1}.  2/429
+ What is prob of sequence dzzdd when five letters picked without replacement
+  from {z: 5, d: 4}?  2/63
+ Five letters picked without replacement from {o: 5, n: 4}. Give prob of
+  sequence nooon.  1/21
+ What is prob of sequence oooqo when five letters picked without replacement
+  from {o: 16, q: 1}?  1/17
+ Calculate prob of sequence yiyyy when five letters picked without replacement
+  from {i: 5, y: 8}.  70/1287
+ Five letters picked without replacement from dmmmdmm. What is prob of sequence
+  mmmmd?  2/21
