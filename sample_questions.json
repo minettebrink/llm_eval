@@ -1,0 +1,23 @@
+[
+    "Solve 19*p - 18 = 108*p + 71 for p.",
+    "Determine n so that -2*n**5/3 + 13*n**4/3 + 10*n**3/3 - 20*n**2/3 - 8*n/3 + 7/3 = 0.",
+    "Let 20*g**5 + 3765*g**4 + 45140*g**3 - 14392710*g**2 - 18045160*g - 3611055 = 0. Calculate g.",
+    "Let o(q) = -q**2 + 8*q + 2. Let x(z) = -z**3 + 6*z**2 - 3*z - 2. Let u be x(5). Let l be o(u). Factor 19 - 20*m - 9 + 29*m**l + 3*m**4 - 6 - 16*m**3.",
+    "What comes next: 24, 65, 140, 249?",
+    "What is the r'th term of -144, -277, -410, -543, -676?",
+    "What is 7056491.012 take away 745?",
+    "In base 16, what is d7ad31 - -2?",
+    "Simplify -6*(sqrt(5) + (sqrt(5) - 1*sqrt(5)))**2*-2.",
+    "What is the nearest to -18 in -2/5, 0.4, -27/4?",
+    "Is 3/560137 smaller than 1?",
+    "10000 (base 3) to base 2",
+    "Is 18 a factor of 6921756?",
+    "What is the ten millions digit of 2842056948?",
+    "Expand -q**5 - q**5 - q**5 + (3*q**2 + 0*q**2 - 5*q**2)*(0*q**3 - q**3 + 0*q**3) + 1 - 1 - q**5 - 4*q**5 - 10*q**5 + 2*q**3 + 0*q**3.",
+    "Let 4*g**2 + 5970656*g + 2228045816896 = 0. Calculate g.",
+    "Which is the closest to -1?  (a) -5  (b) -6  (c) -17697  (d) -4",
+    "Let i be (-2555)/30 + (-2)/(-36)*3. Let w = i - -154. Calculate the remainder when w is divided by 25.",
+    "Let u(o) = 2*o**3 - 332*o**2 + 687*o - 5083. What is u(164)?",
+    "What is the value of (-1)/2*-310*(-73)/(-365)*-3*28/105*10/2*5/5?",
+    "Five letters picked without replacement from {h: 3, l: 5}. What is prob of sequence lllll?"
+]
