@@ -13,5 +13,5 @@ So far I've tried
     - It only compares the final answer. This means that the reasoning can be wrong in the answer of Math LLM even if the answer is correct.
 
 Next step:
-    - Continue with the exact match 
-    - Try [Math Verify](https://github.com/huggingface/Math-Verify)
+- Continue with the exact match 
+- Try [Math Verify](https://github.com/huggingface/Math-Verify)
